@@ -1,0 +1,116 @@
+---------------Deadline--------------------
+Projenin deadline geliyor. Projenin son teslim zamanı geliyor.
+Yapılacak olacak projenin deadline belli olmadı. Yapılacak olacak projenin son teslim zamanı belli olmadı.
+Müşteri deadline hakkında bir bilgi vermedi. Müşteri son teslim zamanı hakkında bir bilgi vermedi.
+Çalışanlar deadline yüzünden telaşlandılar. Çalışanlar son teslim zamanı yüzünden telaşlandılar.
+Mesailer projenin deadline yüzünden uzatıldı. Mesailer projenin son teslim zamanı yüzünden uzatıldı.
+Patrondan deadline için değişiklik istediler. Patrondan son teslim zamanı için değişiklik istediler.
+Deadline unutulduğu için proje yetiştirilemedi.  Son teslim zamanı unutulduğu için proje yetiştirilemedi.
+Deadline olmayan işler bir türlü bitmiyordu.  Son teslim zamanı olmayan işler bir türlü bitmiyordu.
+Projeye bazı şeyler eklenince deadline uzatıldı. Projeye bazı şeyler eklenince son teslim zamanı uzatıldı.
+Projenin deadline gelene kadar herkes çalışmak zorundaydı. Projenin son teslim zamanı gelene kadar herkes çalışmak zorundaydı.
+---------------Check Etmek--------------------
+Bu toplantıda konuşulacakların check edilmesi gerekiyor.  Bu toplantıda konuşulacakların  denetlenmesi gerekiyor.
+Check edilen konularda sonradan sıkıntı çıktı.  Denetlenen konularda sonradan sıkıntı çıktı.
+Yazdığı kodları check etmediği için birden fazla hata çıktı. Yazdığı kodları denetlemediği için birden fazla hata çıktı.
+Asistanın check edeceği evraklar bitti. Asistanın denetleyeceği evraklar bitti.
+Patron check etmek için ofise geldi. Patron denetlemek için ofise geldi. 
+Check edilen defterler kayboldu. Denetlenen defterler kayboldu.
+Toplantıdan ortaya çıkan sorunlar check edilip tekrar konuşulacak. Toplantıdan ortaya çıkan sorunlar denetlenip tekrar konuşulacak.
+Bu işin check edilecek bir tarafı yok. Bu işin denetlenecek bir tarafı yok.
+Banka hesabını check etmediği için hesabı kapanmış. Banka hesabını denetlemediği için hesabı kapanmış.
+Check edilecek birden fazla gıda firması var. Denetlenecek birden fazla gıda firması var.
+---------------Lansman--------------------
+Bu yıl ki lansman çok konuşuldu. Bu yıl ki tanıtım çok konuşuldu.
+Lansmanda podyuma çıkacak mankenleri buldular. Tanıtımda podyuma çıkacak mankenleri buldular.
+Lansman zamanı birden fazla gazeteci oraya gelecek. Tanıtım zamanı birden fazla gazeteci oraya gelecek.
+Lansmanın hazırlığına bir hafta önceden başladılar. Tanıtımın hazırlığına bir hafta önceden başladılar.
+Lansmana kadar bütün üretimleri bitirmek zorundalardı. Tanıtıma kadar bütün üretimleri bitirmek zorundalardı.
+Lansman sırasında şirket sahibi konuşma yaptı. Tanıtım sırasında şirket sahibi konuşma yaptı.
+Lansman için sunum hazırlandı. Tanıtım için sunum hazırlandı.
+Lansmanda misafirlere içecek servisi yapıldı. Tanıtımda misafirlere içecek servisi yapıldı.
+Lansman beklentinin çoğunu karşıladı. Tanıtım beklentinin çoğunu karşıladı.
+Beklenen kişiler lansmana gelmediler. Beklenen kişiler tanıtıma gelmediler.
+---------------Absürt--------------------
+Bu absürt olaylar hakkında konuşmak istemiyorum. Bu saçma olaylar hakkında konuşmak istemiyorum.
+Ne kadar absürt konuşuyorsun. Ne kadar saçma konuşuyorsun.
+Absürt olaylar hep benim başıma gelir. Saçma olaylar hep benim başıma gelir.
+Absürt paylaşımlar yüzünden insanlar vakit kaybı yaşıyor.  Saçma paylaşımlar yüzünden insanlar vakit kaybı yaşıyor. 
+Absürt kitaplar okumaya bayılır. Saçma kitaplar okumaya bayılır.
+Bu konu hakkında düşünceleri absürttü.  Bu konu hakkında düşünceleri saçmaydı. 
+Absürt bir olay yüzünden şaşkına döndü. Saçma bir olay yüzünden şaşkına döndü.
+Bazı kelimeler çok absürttü. Bazı kelimeler çok saçmaydı.
+Konu çok absürttü. Konu çok saçmaydı.
+En absürt cümleler bu sitede var. En saçma cümleler bu sitede var.
+---------------Analiz--------------------
+Bu test analiz edildi. Bu test çözümlendi.
+Analiz edilmesi gereken bazı grafikler var. Çözümlenmesi gereken bazı grafikler var.
+Bu süreçte işleri analiz etmek zor olacaktır. Bu süreçte işleri çözümlemek zor olacaktır.
+Analiz süreci boyunca çok çalışmalıyız. Çözümleme süreci boyunca çok çalışmalıyız.
+Ne kadar iyi analiz yapılırsa o kadar iyi anlaşılır. Ne kadar iyi çözümleme yapılırsa o kadar iyi anlaşılır.
+Soruyu kodlamadan önce analiz etmek gerekir. Soruyu kodlamadan önce çözümlemek gerekir.
+Makalelerde bazı analizler yapılmış. Makalelerde bazı çözümlemeler yapılmış.
+Öğretmen konuyu iyi bir  şekilde analiz etti. Öğretmen konuyu iyi bir  şekilde çözümledi.
+Bazı problemleri anlamak için analiz etmek gerekir. Bazı problemleri anlamak için çözümlemek gerekir.
+Bir yıllık çalışmasını analiz etti. Bir yıllık çalışmasını çözümledi.
+---------------Vizyon--------------------
+Vizyon sahibi insan bulmak zor. İleri görüş sahibi insan bulmak zor.
+Vizyonuna güvendiği için bu kadar iddialıydı. İleri görüşüne güvendiği için bu kadar iddialıydı.
+Şirketin vizyonu gayet iyi. Şirketin ileri görüşü gayet iyi.
+Vizyon sahibi olmak için çok çalıştı. İleri görüş sahibi olmak için çok çalıştı.
+Vizyon şirketler arasında önemli bir kriter haline geldi. İleri görüş şirketler arasında önemli bir kriter haline geldi.
+Vizyon sahibi olmak için çok gelişmesi gereken şirketler vardı. İleri görüş sahibi olmak için çok gelişmesi gereken şirketler vardı.
+Kendiniz ile ilgili vizyonunuzu arttırın. Kendiniz ile ilgili ileri görüşünüzü arttırın.
+Destek alacağınız değerlere dayalı bir vizyonunuz olmalıdır. Destek alacağınız değerlere dayalı bir ileri görüşünüz olmalıdır.
+Vizyon geleceği paylaşmaktır. İleri görüş geleceği paylaşmaktır.
+Vizyon soyut bir kavram değildir. İleri görüş soyut bir kavram değildir.
+---------------Cclemek--------------------
+Sana cc yollayacağım. Sana elektronik posta bilgisi yollayacağım.
+Cc ye onu eklemeyi unuttuğu için azar işitti. elektronik posta bilgisine onu eklemeyi unuttuğu için azar işitti.
+Toplantıdaki herkesi ccledi. Toplantıdaki herkesi elektronik posta bilgisine ekledi.
+Elektronik posta gönderirken beni de ccler misin? Elektronik posta gönderirken beni de elektronik posta bilgisine ekler misin? 
+Herkesi cclemesi sorun çıkardı. Herkesi elektronik posta bilgisine eklemesi sorun çıkardı. 
+Cclemeyi bilmediği için birden fazla kişiye elektronik posta gönderemedi. Elektronik posta bilgisine eklemeyi bilmediği için birden fazla kişiye elektronik posta gönderemedi.
+Ona gelen iletileri cclemesi gerekiyordu.  Ona gelen iletileri elektronik posta bilgisine eklemesi gerekiyordu. 
+Cclemek isterken yanlış yaptı. Elektronik posta bilgisine eklemek isterken yanlış yaptı.
+Cclemeyi bilmiyordu. Elektronik posta bilgisine eklemeyi  bilmiyordu.
+Elektronik posta gönderirken cc kısmı çalışmıyordu. Elektronik posta gönderirken elektronik posta bilgisine ekleme kısmı çalışmıyordu.
+---------------Fulltime--------------------
+Fulltime iş aramaktayım. Tam zamanlı iş aramaktayım.
+Fulltime işler onu çok yoruyordu. Tam zamanlı işler onu çok yoruyordu.
+İş ararken fulltime olmasını istiyordu. İş ararken tam zamanlı olmasını istiyordu.
+Fulltime çalıştığında eve geç geliyordu. Tam zamanlı çalıştığında eve geç geliyordu.
+Fulltime işler için hiç vakti yoktu. Tam zamanlı işler için hiç vakti yoktu.
+Babasının çalıştığı şirket fulltime çalışıyordu. Babasının çalıştığı şirket tam zamanlı çalışıyordu.
+Fulltime olarak buradayız. Tam zamanlı olarak buradayız.
+Fulltime çalışan işçi ek iş yapamıyordu. Tam zamanlı çalışan işçi ek iş yapamıyordu.
+Fulltime işlerde genellikle sigorta olur. Tam zamanlı işlerde genellikle sigorta olur.
+Fulltime çalıştığı için çok fazla maaş alıyordu. Tam zamanlı çalıştığı için çok fazla maaş alıyordu.
+---------------İnovasyon--------------------
+İnovasyon süreci uzun sürmüştü. Yenilik süreci uzun sürmüştü.
+İnovasyon sürecini hızlandırmak için eleman alımı yapıldı. Yenilik sürecini hızlandırmak için eleman alımı yapıldı.
+İnovasyon neden önemlidir?    Yenilik neden önemlidir? 
+İnovasyon bir buluş değildir. Yenilik bir buluş değildir.
+İnovasyon yapan bazı firmalar vardı. Yenilik yapan bazı firmalar vardı.
+İnovasyon ekonomisi bu aralar sık takip ediliyor. Yenilikçi ekonomisi bu aralar sık takip ediliyor.
+İnovasyona dayalı rekabetçilik arttı. Yenilikçiliğe dayalı rekabetçilik arttı.
+Şirketin başarısını inovasyona borçluydular. Şirketin başarısını yeniliğe borçluydular.
+İnovasyon örneklerini incelediler. Yenilikçi örnekleri incelediler. 
+İnovasyonu teşvik eden bir ortam yaratmaya başladı. Yeniliğe teşvik eden bir ortam yaratmaya başladı.
+---------------Set etmek--------------------
+Toplantı hızlı bir şekilde set edildi. Toplantı hızlı bir şekilde ayarlandı.
+Set edilmesi gereken bir organizasyon vardı. Ayarlanması gereken bir organizasyon vardı.
+Toplantıyı set etmeye çalışırken zaman sıkıntısı yaşadılar. Toplantıyı ayarlamaya çalışırken zaman sıkıntısı yaşadılar.
+Bu evrakların set edilmesi gerekebilir. Bu evrakların ayarlanması gerekebilir.
+Set edilecek bir çok toplantı vardı. Ayarlanacak bir çok toplantı vardı.
+Toplantı set edilmediği için sorunlar konuşulmadı. Toplantı ayarlanmadığı için sorunlar konuşulmadı.
+Yanlış bir görüşme set edildi. Yanlış bir görüşme ayarlandı.
+Toplantı set edildiği halde kimse gelmedi. Toplantı ayarlandığı halde kimse gelmedi.
+İşler set edilirken bazı işler unutulmuş. İşler ayarlanırken bazı işler unutulmuş.
+Listeler set edildikten sonra herkese verildi. Listeler ayarlandıktan sonra herkese verildi.
+
+
+
+
+
+
