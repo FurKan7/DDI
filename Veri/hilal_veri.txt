@@ -98,7 +98,106 @@ Yanlış bir görüşme set edildi. Yanlış bir görüşme ayarlandı.
 Toplantı set edildiği halde kimse gelmedi. Toplantı ayarlandığı halde kimse gelmedi.
 İşler set edilirken bazı işler unutulmuş. İşler ayarlanırken bazı işler unutulmuş.
 Listeler set edildikten sonra herkese verildi. Listeler ayarlandıktan sonra herkese verildi.
-
+Projelerin deadline olmak zorunda degil.	Projelerin son teslim tarihi olmak zorunda degil.	
+Deadline çok önemli.	Son teslim zamani çok önemli.
+Sirket sahibi deadline uzatti.	Sirket sahibi son teslim tarihini uzatti.		
+Projenin deadline konusmayi unutmuslar.	Projenin son teslim tarihini konusmayi unutmuslar.		
+Bugün takim liderleri olmadigi için deadline karar veremediler.	Bugün takim liderleri olmadigi için son teslim tarihine karar veremediler.
+Deadline dan önce isi bitirmelisin.	Son teslim zamanindan önce isi bitirmelisin.
+Projenin deadline yaklasiyor.	Projenin son teslim tarihi yaklasiyor.
+Bir tane deadline'im var.	Bir tane son teslim tarihim var.
+Çalisanlar deadline bugün oldugunu bilmiyordu.	Çalisanlar son teslim tarihinin bugün oldugunu bilmiyordu.
+Bu zamana kadar hiç deadline kaçirmadim.	Bu zamana kadar hiç son teslim tarihi kaçirmadim.
+Check edilmesi gereken isler bitmedi.	Denetlenmesi gereken isler bitmedi.
+Check etmek için ofise gitti.	Denetlemek için ofise gitti.
+Evraklarin check edilip imzalanmasi gerekti.	Evraklarin denetlenip imzalanmasi gerekti.
+Check edilmeyen kagitlar rafta duruyordu.	Denetlenmeyen kagitlar rafta duruyordu.
+Islerin check edilmesi için ofise eleman alindi.	Islerin denetlenmesi için ofise eleman alindi.
+Yanlis check edildigi için bazi kagitlar çöpe atilmis.	Yanlis denetlendigi için bazi kagitlar çöpe atilmis.
+Tahlillerin check edilmesi için asistanlar doktorun yanina gitti.	Tahlillerin denetlenmesi için asistanlar doktorun yanina gitti.
+Tahlillerin check edilmesi gereken bir durumu yoktu.	Tahlillerin denetlenmesi gereken bir durumu yoktu.
+Kan degerlerini check edip ona göre ilaç verdi.	Kan degerlerini denetleyip ona göre ilaç verdi.
+Fabrikada her zaman güvenlik için isçiler check edilirdi.	Fabrikada her zaman güvenlik için isçiler denetlenirdi.
+Bu gece lansmanin en sik kadini sensin.	Bu gece tanitimin en sik kadini sensin.
+Lansman boyunca gözler hep onun üzerindeydi.	Tanitim boyunca gözler hep onun üzerindeydi.
+Lansman gecesi olaylar yasandi.	Tanitim gecesi olaylar yasandi.
+Lansmanda tanitilan ürün çalismadi.	Tanitimda tanitilan ürün çalismadi.
+Lansman için iki tane stand yeri kuruldu.	Tanitim için iki tane stand yeri kuruldu.
+Herkes markayi lansmanda taniti.	Herkes markayi tanitimda taniti.
+Lansman bizim markamizi insanlara tanittiracaktir.	Tanitim bizim markamizi insanlara tanittiracaktir.
+Lansman için herkes beraber çalisti.	Tanitim için herkes beraber çalisti.
+Sirket lansman yapmaya gerek duymadi.	Sirket tanitim yapmaya gerek duymadi.
+Insanlar lansman için bilet satin aldi.	Insanlar tanitim için bilet satin aldi.
+Bu absürt isler yüzünden islerim aksadi.	Bu saçma isler yüzünden islerim aksadi.
+Her zaman absürt olaylar benim basima gelir.	Her zaman saçma olaylar benim basima gelir.
+Absürt olan da ne bileyim.	Saçma olan da ne bileyim.
+Absürt olmayan da kendisine yakisikli demesin.	Saçma olmayan da kendisine yakisikli demesin.
+Absürt isler benim islerimdir.	Saçma isler benim islerimdir.
+Bazi magazalar çok absürt duruyor.	Bazi magazalar çok saçma duruyor.
+Absürt kiyafetler giymeye bayilir.	Saçma kiyafetler giymeye bayilir.
+Absürt insanlar kendilerini çok zeki saniyor.	Saçma insanlar kendilerini çok zeki saniyor.
+Bana hediye olarak absürt birsey almis.	Bana hediye olarak saçma birsey almis.
+Bu evin dekorasyonu çok absürt.	Bu evin dekorasyonu çok saçma.
+Analiz isi için kadinlar daha uygun bulunuyor.	Çözümleme isi için kadinlar daha uygun bulunuyor.
+Analiz etmek insanin beynini gelistirir.	Çözümlemek insanin beynini gelistirir.
+Analiz etmek insanin düsünce yapisini gelistirir.	Çözümlemek insanin düsünce yapisini gelistirir.
+Bir olayi analiz etmek için her detayini düsünmek gerekir.	Bir olayi çözümlemek için her detayini düsünmek gerekir.
+Analiz etmek için çok vakit lazim.	Çözümelemek için çok vakit lazim.
+Formüller analiz edilerek yeni bir teoiri olusturulacak.	Formüller çözümlenerek yeni bir teoiri olusturulacak.
+Analiz için gerekli malzemeler bulunmuyordu.	Çözümlemek için gerekli malzemeler bulunmuyordu.
+Çalismalari analiz edilerek sonuca ulasildi.	Çalismalari çözümleyerek sonuca ulasildi.
+Analiz edilmesi gereken evraklar için zaman lazimdi.	Çözümlenmesi gereken evraklar için zaman lazimdi.
+Projeyi kodlamadan önce problemin analiz edilmesi gerekir.	Projeyi kodlamadan önce problemin çözümlenmesi gerekir.
+Sirketler için vizyonlar önemlidir.	Sirketler için ileri görüs önemlidir.
+Vizyon önemli bir terimdir.	Ileri görüs önemli bir terimdir.	
+Vizyon insanlara çok sey katar.	Ileri görüs insanlara çok sey katar.
+Destek alacaginiz degerlere dayali bir vizyonunuz olmali.	Destek alacaginiz degerlere dayali bir ileri görüsünüz olmali.
+Vizyon görülemez olan seyleri görebilme sanatidir.	Ileri görüs, görülemez olan seyleri görebilme sanatidir.
+Iyi düsünülmüs bir vizyon bildirisi.	Iyi düsünülmüs bir ileri görüs bildirisi.
+Bu kurumun bir vizyonu oldugundan herkesin haberi var.	Bu kurumun bir ileri görüsü oldugundan herkesin haberi var.
+Genellikle vizyon bildirgelerinde kullanilir.	Genellikle ileri görüs bildirgelerinde kullanilir.
+Vizyon tanimina pek katilmiyorum.	Ileri görüs tanimina pek katilmiyorum.
+Bazi firmalar vizyonlarini paylasti.	Bazi firmalar ileri görüslerini paylasti.	
+Cc ye beni de ekle.	Eposta bilgisine beni de ekle.
+Cc ye eklerken bazi hatalar aliyorum.	Eposta bilgisine eklerken bazi hatalar aliyorum.
+Cc'ye en fazla iki kisi ekleyebilirsin.	Eposta bilgisine en fazla iki kisi ekleyebilirsin.
+Ccden beni çikarir misin?	Eposta bilgisinden beni çikarir misin?
+Cc ye nasil eklendigini internetten arastirdim.	Eposta bilgisine nasil eklendigini internetten arastirdim.
+Müdür her zaman kendisinin ccye eklenmesini ister.	Müdür her zaman kendisinin eposta bilgisine eklenmesini ister.
+Cc deki insanlarin bu eposta bir alakasi yok.	Eposta bilgisindeki insanlarin bu eposta bir alakasi yok.
+Epostada cc ekleme kismini bulamadim.	Epostada eposta bilgisine ekleme kismini bulamadim.
+Çogu çalisanlar eposta gönderirken cc kismini atliyor.	Çogu çalisanlar eposta gönderirken eposta bilgisi kismini atliyor.
+Bu takimdaki herkesi ccye eklemek zorundasin.	Bu takimdaki herkesi eposta bilgisine eklemek zorundasin.
+Fulltime ögrencilik yapmaktayim.	Tam zamanli ögrencilik yapmaktayim.
+Fulltime olarak fakültede asistanliliga basladim.	Tam zamanli olarak fakültede asistanliliga basladim.
+Fulltime islerin ücreti daha fazla oluyor.	Tam zamanli islerin ücreti daha fazla oluyor.
+Bazi kadinlar fulltime çalismayi tercih etmiyor.	Bazi kadinlar tam zamanli çalismayi tercih etmiyor.
+Fulltime ögrenci kavramini ilk defa duydum.	Tam zamanli ögrenci kavramini ilk defa duydum.
+Fulltime olarak personel alimlari yapacagiz.	Tam zamanli olarak personel alimlari yapacagiz.
+Fulltime egitimler daha ögretici oluyor.	Tam zamanli egitimler daha ögretici oluyor.
+Mecbur olmasa, fulltime çalismak istemiyordu.	Mecbur olmasa, tam zamanli çalismak istemiyordu.
+Fulltime olarak çalismayi biraktim.	Tam zamanli olarak çalismayi biraktim.
+Fulltime olarak çalismak beni çok korkutuyor.	Tam zamanli olarak çalismak beni çok korkutuyor.
+Festivalda birden fazla inovasyonlara yer verilecekmis.	Festivalda birden fazla yeniliklere yer verilecekmis.
+Inovasyonlar farkli alanlarda olabilir.	Yenilikler farkli alanlarda olabilir.
+Inovasyon kisinin gelisiminde çok önemlidir.	Yenilik kisinin gelisiminde çok önemlidir.
+Girisimci olabilmek için inovasyon gerekli olabilir.	Girisimci olabilmek için yenilik gerekli olabilir.
+Bazi kurumlarin inovasyon yolculuklari gerçekten çok etkileyici.	Bazi kurumlarin yenilik yolculuklari gerçekten çok etkileyici.	
+Krizi firsata dönüstüren inovasyonlar.	Krizi firsata dönüstüren yenilikler.
+Inovasyon yikici olmalidir.	Yenilik yikici olmalidir.
+Inovasyon, yaratici bir fikri katma deger yaratabilir.	Yenilik, yaratici bir fikri katma deger yaratabilir.
+Inovasyon günümüzde önemli bir kavram olmaktadir.	Yenilik günümüzde önemli bir kavram olmaktadir.
+Gençler hep bir inovasyon pesinde.	Gençler hep bir yenilik pesinde.
+Bu randevuyu set etmek için çok ugrastim.	Bu randevuyu ayarlamak için çok ugrastim.
+Arkadasim bir program set edince hep sorun çikiyordu.	Arkadasim bir program ayarlayinca hep sorun çikiyordu.
+Toplantilar henüz set edilmedi.	Toplantilar henüz ayarlanmadi.
+Bu dersin müfredati set edilmedi.	Bu dersin müfredati ayarlanmadi.
+Hocalar dersleri set etmek için toplanti odasinda bekliyolardi.	Hocalar dersleri ayarlamak için toplanti odasinda bekliyolardi.
+Burada çalisanlarin, çalisma izinlerinin set edilmesi gerekiyor.	Burada çalisanlarin, çalisma izinlerinin ayarlanmasi gerekiyor.
+Programimda set edilmesi gereken bir sürü is var.	Programimda ayarlanmasi gereken bir sürü is var.
+Annesi için dogum günü partisi set etti.	Annesi için dogum günü partisi ayarladi.
+Tanitim programi için yiyecekleri hemen set ettiler.	Tanitim programi için yiyecekleri hemen ayarladilar.
+Listedeki ürünler için farkli bir çözüm set edilecek.	Listedeki ürünler için farkli bir çözüm ayarlanacak.
 
 
 
