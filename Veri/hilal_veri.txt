@@ -1,4 +1,3 @@
----------------Deadline--------------------
 Projenin deadline geliyor. Projenin son teslim zamanı geliyor.
 Yapılacak olacak projenin deadline belli olmadı. Yapılacak olacak projenin son teslim zamanı belli olmadı.
 Müşteri deadline hakkında bir bilgi vermedi. Müşteri son teslim zamanı hakkında bir bilgi vermedi.
@@ -9,7 +8,6 @@ Deadline unutulduğu için proje yetiştirilemedi.  Son teslim zamanı unutuldu�
 Deadline olmayan işler bir türlü bitmiyordu.  Son teslim zamanı olmayan işler bir türlü bitmiyordu.
 Projeye bazı şeyler eklenince deadline uzatıldı. Projeye bazı şeyler eklenince son teslim zamanı uzatıldı.
 Projenin deadline gelene kadar herkes çalışmak zorundaydı. Projenin son teslim zamanı gelene kadar herkes çalışmak zorundaydı.
----------------Check Etmek--------------------
 Bu toplantıda konuşulacakların check edilmesi gerekiyor.  Bu toplantıda konuşulacakların  denetlenmesi gerekiyor.
 Check edilen konularda sonradan sıkıntı çıktı.  Denetlenen konularda sonradan sıkıntı çıktı.
 Yazdığı kodları check etmediği için birden fazla hata çıktı. Yazdığı kodları denetlemediği için birden fazla hata çıktı.
@@ -20,7 +18,6 @@ Toplantıdan ortaya çıkan sorunlar check edilip tekrar konuşulacak. Toplantı
 Bu işin check edilecek bir tarafı yok. Bu işin denetlenecek bir tarafı yok.
 Banka hesabını check etmediği için hesabı kapanmış. Banka hesabını denetlemediği için hesabı kapanmış.
 Check edilecek birden fazla gıda firması var. Denetlenecek birden fazla gıda firması var.
----------------Lansman--------------------
 Bu yıl ki lansman çok konuşuldu. Bu yıl ki tanıtım çok konuşuldu.
 Lansmanda podyuma çıkacak mankenleri buldular. Tanıtımda podyuma çıkacak mankenleri buldular.
 Lansman zamanı birden fazla gazeteci oraya gelecek. Tanıtım zamanı birden fazla gazeteci oraya gelecek.
@@ -31,7 +28,6 @@ Lansman için sunum hazırlandı. Tanıtım için sunum hazırlandı.
 Lansmanda misafirlere içecek servisi yapıldı. Tanıtımda misafirlere içecek servisi yapıldı.
 Lansman beklentinin çoğunu karşıladı. Tanıtım beklentinin çoğunu karşıladı.
 Beklenen kişiler lansmana gelmediler. Beklenen kişiler tanıtıma gelmediler.
----------------Absürt--------------------
 Bu absürt olaylar hakkında konuşmak istemiyorum. Bu saçma olaylar hakkında konuşmak istemiyorum.
 Ne kadar absürt konuşuyorsun. Ne kadar saçma konuşuyorsun.
 Absürt olaylar hep benim başıma gelir. Saçma olaylar hep benim başıma gelir.
@@ -42,7 +38,6 @@ Absürt bir olay yüzünden şaşkına döndü. Saçma bir olay yüzünden şaş
 Bazı kelimeler çok absürttü. Bazı kelimeler çok saçmaydı.
 Konu çok absürttü. Konu çok saçmaydı.
 En absürt cümleler bu sitede var. En saçma cümleler bu sitede var.
----------------Analiz--------------------
 Bu test analiz edildi. Bu test çözümlendi.
 Analiz edilmesi gereken bazı grafikler var. Çözümlenmesi gereken bazı grafikler var.
 Bu süreçte işleri analiz etmek zor olacaktır. Bu süreçte işleri çözümlemek zor olacaktır.
@@ -53,7 +48,6 @@ Makalelerde bazı analizler yapılmış. Makalelerde bazı çözümlemeler yapı
 Öğretmen konuyu iyi bir  şekilde analiz etti. Öğretmen konuyu iyi bir  şekilde çözümledi.
 Bazı problemleri anlamak için analiz etmek gerekir. Bazı problemleri anlamak için çözümlemek gerekir.
 Bir yıllık çalışmasını analiz etti. Bir yıllık çalışmasını çözümledi.
----------------Vizyon--------------------
 Vizyon sahibi insan bulmak zor. İleri görüş sahibi insan bulmak zor.
 Vizyonuna güvendiği için bu kadar iddialıydı. İleri görüşüne güvendiği için bu kadar iddialıydı.
 Şirketin vizyonu gayet iyi. Şirketin ileri görüşü gayet iyi.
@@ -64,7 +58,6 @@ Kendiniz ile ilgili vizyonunuzu arttırın. Kendiniz ile ilgili ileri görüşü
 Destek alacağınız değerlere dayalı bir vizyonunuz olmalıdır. Destek alacağınız değerlere dayalı bir ileri görüşünüz olmalıdır.
 Vizyon geleceği paylaşmaktır. İleri görüş geleceği paylaşmaktır.
 Vizyon soyut bir kavram değildir. İleri görüş soyut bir kavram değildir.
----------------Cclemek--------------------
 Sana cc yollayacağım. Sana elektronik posta bilgisi yollayacağım.
 Cc ye onu eklemeyi unuttuğu için azar işitti. elektronik posta bilgisine onu eklemeyi unuttuğu için azar işitti.
 Toplantıdaki herkesi ccledi. Toplantıdaki herkesi elektronik posta bilgisine ekledi.
@@ -75,7 +68,6 @@ Ona gelen iletileri cclemesi gerekiyordu.  Ona gelen iletileri elektronik posta 
 Cclemek isterken yanlış yaptı. Elektronik posta bilgisine eklemek isterken yanlış yaptı.
 Cclemeyi bilmiyordu. Elektronik posta bilgisine eklemeyi  bilmiyordu.
 Elektronik posta gönderirken cc kısmı çalışmıyordu. Elektronik posta gönderirken elektronik posta bilgisine ekleme kısmı çalışmıyordu.
----------------Fulltime--------------------
 Fulltime iş aramaktayım. Tam zamanlı iş aramaktayım.
 Fulltime işler onu çok yoruyordu. Tam zamanlı işler onu çok yoruyordu.
 İş ararken fulltime olmasını istiyordu. İş ararken tam zamanlı olmasını istiyordu.
@@ -86,7 +78,6 @@ Fulltime olarak buradayız. Tam zamanlı olarak buradayız.
 Fulltime çalışan işçi ek iş yapamıyordu. Tam zamanlı çalışan işçi ek iş yapamıyordu.
 Fulltime işlerde genellikle sigorta olur. Tam zamanlı işlerde genellikle sigorta olur.
 Fulltime çalıştığı için çok fazla maaş alıyordu. Tam zamanlı çalıştığı için çok fazla maaş alıyordu.
----------------İnovasyon--------------------
 İnovasyon süreci uzun sürmüştü. Yenilik süreci uzun sürmüştü.
 İnovasyon sürecini hızlandırmak için eleman alımı yapıldı. Yenilik sürecini hızlandırmak için eleman alımı yapıldı.
 İnovasyon neden önemlidir?    Yenilik neden önemlidir? 
@@ -97,7 +88,6 @@ Fulltime çalıştığı için çok fazla maaş alıyordu. Tam zamanlı çalış
 Şirketin başarısını inovasyona borçluydular. Şirketin başarısını yeniliğe borçluydular.
 İnovasyon örneklerini incelediler. Yenilikçi örnekleri incelediler. 
 İnovasyonu teşvik eden bir ortam yaratmaya başladı. Yeniliğe teşvik eden bir ortam yaratmaya başladı.
----------------Set etmek--------------------
 Toplantı hızlı bir şekilde set edildi. Toplantı hızlı bir şekilde ayarlandı.
 Set edilmesi gereken bir organizasyon vardı. Ayarlanması gereken bir organizasyon vardı.
 Toplantıyı set etmeye çalışırken zaman sıkıntısı yaşadılar. Toplantıyı ayarlamaya çalışırken zaman sıkıntısı yaşadılar.
@@ -108,6 +98,7 @@ Yanlış bir görüşme set edildi. Yanlış bir görüşme ayarlandı.
 Toplantı set edildiği halde kimse gelmedi. Toplantı ayarlandığı halde kimse gelmedi.
 İşler set edilirken bazı işler unutulmuş. İşler ayarlanırken bazı işler unutulmuş.
 Listeler set edildikten sonra herkese verildi. Listeler ayarlandıktan sonra herkese verildi.
+
 
 
 
