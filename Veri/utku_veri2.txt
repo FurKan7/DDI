@@ -1,0 +1,85 @@
+her projenin deadline'ı aynı olmayabiliyor.	her projenin son teslim tarihi aynı olmayabiliyor.
+tek bir deadline'a bağlı değiliz.	tek bir son teslim tarihine bağlı değiliz.
+sürekli bir deadline peşindesiniz.	sürekli bir son teslim tarihi peşindesiniz.
+deadline yetişir veya yetişmez önemli değil.	son teslim tarihi yetişir veya yetişmez önemli değil.
+en son çalıştığın projenin deadlineı ne zaman?	en son çalıştığın projenin son teslim tarihi ne zaman?
+deadline'ı ayrı mı yazmalıyız yoksa bitişik mi?	son teslim tarihini ayrı mı yazmalıyız yoksa bitişik mi?
+deadline ı hiç kaçırmadım.	son teslim tarihini hiç kaçırmadım.
+deadline'ı iki hafta uzatabilir miyiz?	son teslim tarihini iki hafta uzatabilir miyiz?
+deadline a iki saatten az bir zaman kaldı.	son teslim tarihine iki saatten az bir zaman kaldı.
+deadline'a az kaldı, yetiştirebilecek misin?	son teslim tarihine az kaldı, yetiştirebilecek misin?
+
+abi ne yaptın, attığım projeyi check ettin mi?	abi ne yaptın, attığım projeyi denetledin mi?
+kimse check etmiyorsa biz bunu nasıl bitireceğiz?	kimse denetlemiyorsa biz bunu nasıl bitireceğiz?
+ahmet bey listeyi check ettiniz mi?	ahmet bey listeyi denetlediniz mi?
+nalan hanım şunu bir check edelim.	nalan hanım şunu bir denetleyelim.
+arkadaşlar bu dosyayı kim check ediyor?	arkadaşlar bu dosyayı kim denetliyor?
+dostum son bir kez check edebilir misin?	dostum son bir kez denetleyebilir misin?
+sevgili dostlarım benim projemi ne zaman check edeceksiniz?	sevgili dostlarım benim projemi ne zaman denetleyeceksiniz?
+ortada check edilecek hiçbirşey kalmadı.	ortada denetlenecek hiçbirşey kalmadı.
+her şeyi tek tek check etmem gerekiyor.	her şeyi tek tek denetlemem gerekiyor.
+benim notları check edebilir misin?	benim notları denetler misin?
+
+son projemizin lansmanı ne zaman yapılacak?	son projemizin tanıtımı ne zaman yapılacak?
+bir ürünü lansmanını yapmadan ortaya atmak saçma olur.		bir ürünü tanıtımını yapmadan ortaya atmak saçma olur.
+her proje için tek tek lansman mı yapacağız?	her proje için tek tek tanıtım mı yapacağız?
+insanlardaki bu lansman hastalığı beni öldürüyor.	insanlardaki bu tanıtım hastalığı beni öldürüyor.
+maalesef lansman'a katılamayacağım.	maalesef tanıtıma katılamayacağım.
+son söz her zaman lansmanda söylenir.	son söz her zaman lansman'da söylenir.
+lansmana ne kadar zaman kaldığını bilen var mı?	tanıtıma ne kadar zaman kaldığını bilen var mı?
+lansmanın bitmesine çok az bir zaman kaldı.	tanıtımın bitmesine çok az bir zaman kaldı
+tam da lansman yaklaşırken olur mu?	tam da tanıtım yaklaşırken olur mu?
+maalesef lansman'a çıkamayacağız.	maalesef tanıtım'a çıkamayacağız.
+
+absürt örnekler verecekseniz bu işe hiç başlamayalım.	saçma örnekler verecekseniz bu işe hiç başlamayalım.
+aykırı olmak için absürt sorular soruyordu.	aykırı olmak için saçma sorular soruyordu.
+illa absürt hareketler yapacaksınız.	illa saçma hareketler yapacaksınız.
+anlamsız ve absürt tavırlarından sıkıldım.	anlamsız ve saçma tavırlarından sıkıldım.
+her sınıfta sırf komiklik olsun diye absürt konuşan birileri vardır.	her sınıfta sırf komiklik olsun diye saçma konuşan birileri vardır.
+hayatımda gördüğüm en absürt fikir.	hayatımda gördüğüm en saçma fikir.
+gereksiz ve absürt sorular sorarak kafasını karıştırıyordu.	gereksiz ve saçma sorular sorarak kafasını karıştırıyordu.
+hayatımda duyduğum en absürt fikir olabilir.	hayatımda duyduğum en saçma fikir olabilir.
+boş ve absürt konuşarak bir yere gelemeyiz.	boş ve saçma konuşarak bir yere gelemeyiz.
+bazen konuşmamak absürt konuşmaktan daha mantıklıdır.	bazen konuşmamak saçma konuşmaktan daha mantıklıdır.
+
+profesyonel bir insan olduğu için tüm konuşmalarımızı sonradan analiz ediyordu.	profesyonel bir insan olduğu için tüm konuşmalarımızı sonradan çözümlüyordu.
+her bir konu teker teker en ince ayrıntısına kadar analiz edildi.	her bir konu teker teker en ince ayrıntısına kadar çözümlendi.
+istersen analiz eden biri ol istersen normal biri fark etmez.	istersen çözümleyen biri ol istersen normal biri fark etmez.
+konuşulan her konu analiz edilmek zorunda değil.	konuşulan her konu çözümlenmek zorunda değil.
+analiz süreci neredeyse her sektörde etkili bir süreçtir.	çözümleme süreci neredeyse her sektörde etkili bir süreçtir.
+maalesef ki her analizine katılmıyorum.	maalesef ki her çözümlemene katılmıyorum.
+analizinizin çağını arttırmalısınız.	çözümlemenizin çapını arttırmalısınız.
+son dönemlerde türkiye'nin her hareketi analiz ediliyor.	son dönemlerde türkiye'nin her hareketi çözümleniliyor.
+analiz edilen her konu aslında tartışılması gereken bir konudur.	çözümlenen her konu aslında tartışılması gereken bir konudur.
+uçuşların analizi yapıldı.	uçuşların çözümlenmesi yapıldı.
+
+okuduğun her kitap aslında vizyonunu fazlasıyla genişletir.	okuduğun her kitap aslında ileri görüşünü genişletir.
+vizyon sadece konuşmak ile anlaşılabilir birşey değildir.	ileri görüş sadece konuşmak ile anlaşılabilir birşey değildir.
+her bir insan farklı vizyonlara sahiptir ancak kullanılmadıkça bu özellik zamanla körelir.	her bir insan farklı ileri görüşlere sahiptir ancak kullanılmadıkça bu özellik zamanla körelir.
+vizyon sadece bir kelime değildir, her insanda olması gereken birşeydir.	ileri görüşlülük sadece bir kelime değildir, her insanda olması gereken birşeydir.
+kimse başka birinin vizyonunu kötümseyemez.	kimse başka birinin ileri görüşlülüğünü kötümseyemez.
+vizyon insanlar için farklı anlamlara gelebilir.	ileri görüşlülük insanlar için farklı anlamlara gelebilir.
+vizyonsuz insanlar için kendi geleceğini tehlikeye atmamalısın.	ileri görüşsüz insanlar için kendi geleceğini tehlikeye atmamalısın.
+kimilerine göre tehlikeli olam vizyon, kimilerine göre de tam bir şaheserdir.	kimilerine göre tehlikeli olan ileri görüşlülük, kimilerine göre de tam bir şaheserdir.
+her insan vizyon sahibi olabilir ancak her insan bunu gerçekleştirecek cesarete sahip değildir.	her insan ileri görüş sahibi olabilir ancak her insan bunu gerçekleştirecek cesarete sahip değildir.
+son yazın vizyonumda önemli değişiklikler gerçekleştirdi.	son yazın ileri görüşümde önemli değişiklikler gerçekleştirdi.
+
+herkes birbirini cclerse ne anlamı kalır?	herkes birbirini elektronik posta bilgisine eklerse ne anlamı kalır?
+son gönderdiğine beni de cclersen ay sonu rahat ederim.	son gönderdiğin e posta bilgisine beni de eklersen ay sonu rahat ederim.
+herkes beni ccle diyor ancak kimse beni cclemiyor.	herkes beni elektronik posta bilgisine ekle diyor ancak kimse beni elektronik posta  bilgisine eklemiyor.
+tek birini cclemek bile bir işe yarıyor.	tek birini elektronik posta bilgisine eklemek bile bir işe yarıyor.
+beni ccleyen her kimse bilgim yoktu.	beni elektronik posta bilgisine ekleyen her kimse bilgim yoktu.
+tüm cclenen insanlar tek çatı altında.	tüm elektronik posta bilgisine eklenen insanlar tek çatı altında.
+son konu hakkında beni kesinlikle cclemelisin.	son konu hakkında beni kesinlikle elektronik posta bilgisine eklemelisin.
+tamam da beni neden cclemedin ?	tamam da beni neden elektronik posta bilgisine eklemedin?
+ahmet bey beni de ccleyebilir misiniz ?	ahmet bey beni de elektronik posta bilgisine ekleyebilir misiniz ? 
+komik olda da son olarak hanımefendiyi de ccleyelim.	komik olda da son olarak hanımefendiyi de elektronik posta bilgisine ekleyelim.
+
+
+
+
+
+
+
+
+
