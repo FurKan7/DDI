@@ -1,0 +1,692 @@
+Bu projenin deadline süresi nedir?	Bu projenin son teslim zamanı nedir?
+Deadline süresini aştınız.	Son teslim zamanını aştınız.
+Onlar deadlinenı belirlediler mi?	Onlar son teslim zamanını belirlediler mi?
+Deadline yaklaşıyor elimizi çabuk tutmamız lazım.	Son teslim zamanı yaklaşıyor elimizi çabuk tutmamız lazım.
+Deadline’a az kaldı.	Son teslim zamanına az kaldı.
+Başvurunun deadline'ı geçmiş.	Başvurunun son teslim zamanı geçmiş.
+Projenin deadline'ı ekim ayında bitiyor.	Projenin son teslim zamanı ekim ayında bitiyor.
+O işin deadline'ı pazartesiye uzatıldı.	O işin son teslim zamanı pazartesiye uzatıldı.
+Raporların deadline'ı ne zaman?	Raporların son teslim zamanı ne zaman?
+Arkadaşlar deadlinelar bizim için çok önemli, lütfen işleri sıkı tutalım.	Arkadaşlar son teslim zamanları bizim için çok önemli, lütfen işleri sıkı tutalım.
+O deadline da ürünü görmek istiyorum.
+Deadline yaklaşıyor.	Son teslim zamanı yaklaşıyor.
+Deadline yaklaştı tedirginlik söz konusu.	Son teslim zamanı yaklaştı tedirginlik söz konusu.
+Deadline süresinin sonuna geldik arkadaşlar.	Son teslim zamanının sonuna geldik arkadaşlar.
+Başardık deadlinedan önce bitirdik.	Başardık son teslim zamanında önce bitirdik.
+Deadline bitti biz de bittik.	Son teslim zamanı bitti biz de bittik.
+Projenin önemi deadline ile ölçülür.	Projenin önemi son teslim zamanı ile ölçülür.
+Projenin önemini deadline belirler.	Projenin önemini son teslim zamanı belirler.
+Projenin deadline'nı belirleyemedik.	Projenin son teslim zamanını belirleyemedik.
+Projenin deadline süresini nasıl belirleyebiliriz?	Projenin son teslim zamanını nasıl belirleyebiliriz?
+Size bir mail gönderdim, check eder misiniz?	Size bir mail gönderdim, denetler misiniz?
+Bu kodu check ettim.	Bu kodu denetledim.
+Hatalar var mı yok mu check eder misiniz?	Hatalar var mı yok mu denetler misiniz?
+Projenin ana hatlarını check ettin mi?	Projenin ana hatlarını denetledin mi?
+Bu raporları check ettim.	Bu raporları denetledim.
+Bunların hepsini ekiple beraber check edeceğiz.	Bunların hepsini takımla beraber denetleyeceğiz.
+Bu son raporlar check edildi mi?	Bu son raporlar denetledi mi?
+Yazılan kodu check etmelisin.	Yazılan kodu denetlemelisin.
+Haberlerde çıkan yeni durumu check ettin mi?	Haberlerde çıkan yeni durumu denetledin mi?
+Şirketin son durumu check edildi mi?	Şirketin son durumu denetlendi mi?
+Toplantı notlarını check ettin mi?	Toplantı notlarını denetledin mi?
+Toplantıda check edilenlere bakalım beraber.	Toplantıda denetlenelere bakalım beraber.
+Bu kod kesinlikle check edilmeli.	Bu kod kesinlikle denetlenmeli.
+Siparişi check ettin mi?	Siparişi denetledin mi??
+Siparişi check et lütfen.	Siparişi denetle lütfen.
+Alınacaklar listesini check etmek lazım bence.	Alınacaklar listesini denetlemek lazım bence.
+Bu fatura hatalı check ettin mi?	Bu fatura hatalı denetledin mi?
+Biz bunu söylemedik check edin lütfen?	Biz bunu söylemedik denetleyin lütfen?
+Tabloyu check ettim.	Tabloyu denetledim.
+O hataları check etti düzeltilecekler var.	O hataları denetledi düzeltilecekler var.
+Ürününün lansmanını izledim.	Ürününün tanıtımını izledim.
+Lansman pek başarılı değildi.	Tanıtım pek başarılı değildi.
+Bu yeni ürünün lansmanı ne zaman?	Bu yeni ürünün tanıtımı ne zaman?
+Yeni bilgisayarın lansmanı kasım ayında.	Yeni bilgisayarın tanıtımı kasım ayında.
+Şirketin lansmanını yaptığı ürün yok sattı.	Şirketin tanıtımını yaptığı ürün yok sattı.
+Araba lansmanlarını izlemeyi seviyorum.	Araba tanıtımlarını izlemeyi seviyorum.
+Yeni motorsiklet lansmanı çok başarılı geçti.	Yeni motorsiklet tanıtımı çok başarılı geçti.
+Bu ürün lansmanı sebebiyle fazla satılacak gibi.	Bu ürün tanıtımı sebebiyle fazla satılacak gibi.
+satabileceğiniz yeni ne varsa lansmanını yapabilirsiniz.	satabileceğiniz yeni ne varsa tanıtımını yapabilirsiniz.
+Lansmanınızın duyurusunu iyi yapmalısınız.	Tanıtımınızın duyurusunu iyi yapmalısınız.
+Lansman çok iyi geçti.	Tanıtım çok iyi geçti.
+Arabanın lansman fiyatı uygun.	Arabanın tanıtım fiyatı uygun.
+Motosikleti lansman fiyatından aldım.	Motosikleti tanıtım fiyatından aldım.
+Uçağın lansman fiyatı mı olur?	Uçağın tanıtım fiyatı mı olur?
+Alacağım kaskın lansmanını izledim müthişti.	Alacağım kaskın tanıtımını izledim müthişti.
+Bu telefon markası altı ayda bir lansman yapıyor.	Bu telefon markası altı ayda bir tanıtım yapıyor.
+Yerli bir markanın lansmanını izledim.	Yerli bir markanın tanıtımını izledim.
+Bizim ürünümüz için de lansman yapmalıyız.	Bizim ürünümüz için de tanıtım yapmalıyız.
+Lansman fiyatlarına bakacak olursak aslında o kadar da ucuz değil.	Tanıtım fiyatlarına bakacak olursak aslında o kadar da ucuz değil.
+Lansmanların kıyasına giriştik ve işin içinden çıkamadık.	Tanıtımların kıyasına giriştik ve işin içinden çıkamadık.
+Absürdü, bulanığı, karışığı hep soyut sözcüğüyle karşılıyoruz.	Saçmalığı, bulanığı, karışığı hep soyut sözcüğüyle karşılıyoruz. 
+Eski kuşağın absürt temsilcisidir.	Eski kuşağın saçma temsilcisidir.
+Absürte, yalnızlığa, başkalığa tahammül, çelik bir uzviyet elmastan bir yürek işi.	Saçmalığı, yalnızlığa, başkalığa tahammül, çelik bir uzviyet elmastan bir yürek işi.
+Rüküşlükle absürtlük arasında kararsız bir kılık.	Rüküşlükle saçmalık arasında kararsız bir kılık.
+izleyicileri ekran başına toplayan absürt komedi.	izleyicileri ekran başına toplayan saçma komedi.
+Çok ilginçtir ki, en absürt iç çamaşırlarının müşterisi de bu kesimlermiş.	Çok ilginçtir ki, en saçma iç çamaşırlarının müşterisi de bu kesimlermiş.
+absürt bir durum komedisi.	saçma bir durum komedisi.
+Böylesine absürt bir operasyonun başlatılması için bir meczubun seçilmesi en uygunuydu.	Böylesine saçma bir operasyonun başlatılması için bir meczubun seçilmesi en uygunuydu.
+en absürt ölüm şeklinin ne olduğu sorulduğunda trafik kazası diyor.	en saçma ölüm şeklinin ne olduğu sorulduğunda trafik kazası diyor.
+ironik ve absürt bir komedi anlayışı tüm filme hakimdir.	ironik ve saçma bir komedi anlayışı tüm filme hakimdir.
+Absürt bir anlam çıkıyor burdan.	saçma bir anlam çıkıyor burdan.
+Bu absürt dünyanın içerisinde köle olmuşuz.	Bu saçma dünyanın içerisinde köle olmuşuz.
+Bazı yazarların yazıları gerçekten fazla absürt.	Bazı yazarların yazıları gerçekten fazla saçma.
+Absürt bir komedi anlayışımız var.	Saçma bir komedi anlayışımız var.
+Dans ederken çok absürt bir konumda bulunuyoruz.	Dans ederken çok saçma bir konumda bulunuyoruz.
+Ülkece absürt bir durumun içindeyiz sanırım.	Ülkece saçma bir durumun içindeyiz sanırım.
+Bazı absürt kitapları insanlar neden okur anlamam.	Bazı saçma kitapları insanlar neden okur anlamam.
+Filmlerin bazen çok absürt sahneleri oluyor.	Filmlerin bazen çok saçma sahneleri oluyor.
+Sen hiç hayatında absürt bir şey yapmadın mı?	Sen hiç hayatında saçma bir şey yapmadın mı?
+Dünyanın en absürt ülkesi neresidir?	Dünyanın en saçma ülkesi neresidir?
+Biz arkadaşlarımla sonunda bu geldiğimiz olayların her zaman analizlerini yaparız.	Biz arkadaşlarımla sonunda bu geldiğimiz olayların her zaman çözümlemelerini yaparız.
+sağlıksız analizler yaptım uzun süre.	sağlıksız çözümlemeler yaptım uzun süre.
+bu gayelerinden saptırmaya gayret eden bozucu tesirleri analiz etmeğe sıra gelir.	bu gayelerinden saptırmaya gayret eden bozucu tesirleri çözümlemeye sıra gelir.
+Her konudan sonra konuyu bir güzel analiz yaparım.	Her konudan sonra konuyu bir güzel çözümleme yaparım.
+Bu raporları analiz etmek lazım.	Bu raporları çözümlenmesi lazım.
+Projenin kod analizini yaptınız mi?	Projenin kod çözümlemesini yaptınız mi?
+Görüntü tanımlama da mutlaka resmin analizi yapılmalıdır.	Görüntü tanımlama da mutlaka resmin çözümlemesi yapılmalıdır.
+Bu sinyalin analizini yapınız.	Bu sinyalin çözümlemesini yapınız.
+Projedeki raporların analizini tamamlayın.	Projedeki raporların çözümlemesini tamamlayın.
+Verinin buradaki analizi nasıl yapılır.	Verinin buradaki çözümlemesi nasıl yapılır.
+Verinin analizini yapmak çok önemli bir olgu.	Verinin çözümlemesini yapmak çok önemli bir olgu.
+Analiz yapalım ki geliştirebilelim projeyi.	Çözümleme yapalım ki geliştirebilelim projeyi.
+Haydi oturun analize.	Haydi oturun çözümlemeye.
+Seni çok iyi analiz ettiğimi düşünüyorum.	Seni çok iyi çözümleme ettiğimi düşünüyorum.
+Analiz yapabilecek yeteneğimiz var çok şükür.	Çözümleme yapabilecek yeteneğimiz var çok şükür.
+Kodun analizini iyi yapmak lazım hata kabul edilemez.	Kodun çözümlemesini iyi yapmak lazım hata kabul edilemez.
+Analizi iyi yapalım ki hatalar azalsın.	Çözümlemeyi iyi yapalım ki hatalar azalsın.
+Hayatınızın analizini yapabilir misiniz?	Hayatınızın çözümelemesini yapabilir misiniz?
+Suyun analizinin sonucu nedir?	Suyun çözümlemesinin sonucu nedir?
+Evrenin analizinden sonucu en çok bulunan element karbondur.	Evrenin çözümlemesinden sonucu en çok bulunan element karbondur.
+Bu metni yazacak kadar zeki, adil, vizyonu geniş bir insan.	Bu metni yazacak kadar zeki, adil, ileri görüşü geniş bir insan.
+Bu ülkenin vizyonlu insanlara ihtiyacı var.	Bu ülkenin ileri görüşlü insanlara ihtiyacı var.
+Eğer kendinizi geliştirmek istiyorsanız vizyonunuz olmalı.	Eğer kendinizi geliştirmek istiyorsanız ileri görüşünüz olmalı.
+Vizyon sahibi kişiler kendilerini farklı yerlere koyarlar.	İleri görüş sahibi kişiler kendilerini farklı yerlere koyarlar.
+Ülkeler de kişiler gibi vizyon sahibi olmalı.	Ülkeler de kişiler gibi ileri görüş sahibi olmalı.
+Atatürk'ün vizyonu sayesinde bu günlere geldik.	Atatürk'ün ileri görüşü sayesinde bu günlere geldik.
+Onun gibi vizyonumuz olmalı.	Onun gibi ileri görüşümüş olmalı.
+Onun ve bizim vizyonu ülkeyi a noktasından uzaya götürebilir.	Onun ve bizim ileri görüşü ülkeyi a noktasından uzaya götürebilir.
+insanların vizyonsuz hareketler yapmasını anlayamıyorum.	insanların ileri görüşü olmayan hareketler yapmasını anlayamıyorum.
+Vizyon sahibi misin?	İleri görüş sahibi misin?	Vizyon sahibi misin?	İleri görüş sahibi misin?
+Vizyonunuz nedir söyler misiniz?	İleri görüşünüz nedir söyler misiniz?
+Bu insanların vizyon problemeleri beni mahvediyor.	Bu insanların ileri görüş problemeleri beni mahvediyor.
+Ülkenin vizyon sahibi yöneticilere ihtiyacı vardır.	Ülkenin ileri görüş sahibi yöneticilere ihtiyacı vardır.
+Vizyonu gelişmeyen bir insan insan özelliklerine erişemez.	İleri görüş gelişmeyen bir insan insan özelliklerine erişemez.
+Karşınızdakinin vizyonu sizi ya uçurur ya da dibe batırır.	Karşınızdakinin ileri görüşü sizi ya uçurur ya da dibe batırır.
+Uçmak mı istiyorsun vizyonun olsun.	Uçmak mı istiyorsun ileri görüşün olsun.
+Şirketler vizyonları sayesinde büyür ve gelişir.	Şirketler ileri görüşleri sayesinde büyür ve gelişir.
+Motosiklet vizyondur hayattır yaşamaktır.	Motosiklet ileri görüştür hayattır yaşamaktır.
+Hayatı yaşayanlar aslında vizyonu geniş insanlardır.	Hayatı yaşayanlar aslında ileri görüşü geniş insanlardır.
+Onu cc ye eklediniz mi?	Onu bilgiye eklediniz mi?	
+Beni de cc ye ekleyin lütfen	Beni de bilgiye ekleyin lütfen
+Lütfen gönderilen email de herkesi cc ye ekleyin.	Lütfen gönderilen elektronik postada herkesi bilgiye ekleyin.
+cc de bulunan kişiler kimler?	bilgi de bulunan kişiler kimler?
+Gönderdiğin mail de cc de olanların alakalı durumları neler?	Gönderdiğin elektronik postada bilgi de olanların alakalı durumları neler?
+Alakalı	kişileri cc de bulundurun lütfen.	Alakalı	kişileri bilgi de bulundurun lütfen.
+Mail de bulunan cc ye eklenmiş kişiler çok fazla.	Elektronik posta da bulunan bilgiye eklenmiş kişiler çok fazla.
+Bir şirkette mail atarken çok kişi de cc ye eklenir.	Bir şirkette elektronik posta atarken çok kişi de bilgiye eklenir.
+O beni cc ye eklememiş o yüzden haberim yok.	O beni bilgiye eklememiş o yüzden haberim yok.
+Gönderdiğim maile bir çok kişiyi de cc ye ekledim.	Gönderdiğim elektronik postada bir çok kişiyi de bilgiye ekledim.
+Onu cc'ye eklendin mi?	Onu bilgiye eklendin mi?
+Mail atarken lütfen herkesi cc'ye ekleyin.	Mail atarken lütfen herkesi bilgiye ekleyin.
+Karmaşanın sebebi ilgili kişiler mail de cc'ye eklenmemeiş.	Karmaşanın sebebi ilgili kişiler mail de bilgiye eklenmemeiş.
+Şu durumda cc de kimler var?	Şu durumda bilgi de kimler var?
+cc de olanları bana söyler misin?	bilgi de olanları bana söyler misin?
+Mailin  içeriğinden aslında kimlerin cc de olacağını az çok anladım.	Mailin  içeriğinden aslında kimlerin bilgi de olacağını az çok anladım.
+Ben eklenmemişim cc'ye.	Ben eklenmemişim bilgiye.
+Bu önemli bilgiyi benimle de paylaşabilirsin cc'ye ekleyerek.	Bu önemli bilgiyi benimle de paylaşabilirsin bilgiye ekleyerek.
+Mail de bulunan cc'ye eklenmiş kişilerin sadece yarısı toplantıya geldi.	Mail de bulunan bilgiye eklenmiş kişilerin sadece yarısı toplantıya geldi.
+Ayrıca uluslararası şirketler için full time çalışma tecrübesine sahiptir.	Ayrıca uluslararası şirketler için tam zamanlı çalışma tecrübesine sahiptir.
+Beş yıldır full time olarak çalışmaktadır.	Beş yıldır tam zamanlı olarak çalışmaktadır.
+O full time olarak çalışmaya başladı.	O tam zamanlı olarak çalışmaya başladı.
+Ne zamandan beri full time olarak çalışıyorsun?	Ne zamandan beri tam zamanlı olarak çalışıyorsun?
+Staj yaptığım yerde full time çalışmaya başladım.	Staj yaptığım yerde tam zamanlı çalışmaya başladım.
+Bu verileri analiz edebilmek için full time çalışmak lazım.	Bu verileri çözümleyebilmek için tam zamanlı çalışmak lazım.
+Bankalar full time çalışacak eleman aramaktadırlar.	Bankalar tam zamanlı çalışacak eleman aramaktadırlar.
+Full time olarak motorsiklet sürmekteyim.	Tam zamanlı olarak motorsiklet sürmekteyim.
+Verilerimiz full time çalışan kişiler tarafından işleniyor.	Verilerimiz tam zamanlı çalışan kişiler tarafından işleniyor.
+Yazılım firmasında full time çalışmaya başladı.	Yazılım firmasında tam zamanlı çalışmaya başladı.
+Büyük bir kurumsal firmada full time çalışmaya başladı.	Büyük bir kurumsal firmada tam zamanlı çalışmaya başladı.
+Full time olarak bu işte çalışmalısın.	Tam zamanlı olarak bu işte çalışmalısın.
+Bu işi full time olarak seçebilirsin.	Bu işi tam zamanlı olarak seçebilirsin.
+Neden full time çalışmak istemiyorsun.	Neden tam zamanlı çalışmak istemiyorsun.
+Full time çalışmak gerçekten yorucu olabiliyor.	tam zamanlı çalışmak gerçekten yorucu olabiliyor.
+Full time çalışmanın avantajlarından faydalanmak önemli bir ayrıcalık.	Tam zamanlı çalışmanın avantajlarından faydalanmak önemli bir ayrıcalık.
+O yeni bir girişim firmasında full time çalışıyor.	O yeni bir girişim firmasında tam zamanlı çalışıyor.
+Dünyadaki herkes full time mı çalışıyor acaba?	Dünyadaki herkes tam zamanlı mı çalışıyor acaba?
+Full time çalışmak bazen gerçekten tam bir eziyet oluyor.	Tam zamanlı çalışmak bazen gerçekten tam bir eziyet oluyor.
+Firmamıza çok acil bir full time çalışan eleman almamız lazım.	Firmamıza çok acil bir tam zamanlı çalışan eleman almamız lazım. 
+İnovasyon daha çok sıkıntıları giderme konusundan odaklanarak var olan bizi rahatsız eden sorunlara çözüm bulmakta olabilir.	Yenilik daha çok sıkıntıları giderme konusundan odaklanarak var olan bizi rahatsız eden sorunlara çözüm bulmakta olabilir.
+İnovasyon bir buluş değildir.	yenilik bir buluş değildir.
+En basit tanımıyla inovasyon, farklı, değişik, yeni fikirler geliştirmek ve bunları uygulamaktır.	En basit tanımıyla yenilik, farklı, değişik, yeni fikirler geliştirmek ve bunları uygulamaktır.
+iş yapış yöntemlerinin uygulanmaya başlanmasıyla inovasyon yapılmış olur.	iş yapış yöntemlerinin uygulanmaya başlanmasıyla yenilik yapılmış olur.
+üretir ve satarsa inovasyon yapmış olur.	üretir ve satarsa yenilik yapmış olur.
+domates üretmek için domates tohumlarını geliştirmesi de inovasyondur.	domates üretmek için domates tohumlarını geliştirmesi de yeniliktir.
+özendirecek şekilde güzel paketler içinde satması da bir inovasyondur.	özendirecek şekilde güzel paketler içinde satması da bir yeniliktir.
+İnternetten görebilmelerini sağlıyorsa, o da inovasyon yapmış olur.	İnternetten görebilmelerini sağlıyorsa, o da yenilik yapmış olur.
+İnovasyon neden önemlidir?	Yenilik neden önemlidir? 
+Finlandiya başarısını inovasyona borçlu.	Finlandiya başarısını yeniliğe borçlu.
+İnovasyon her ülkenin kalkınması için önemlidir.	Yenilik her ülkenin kalkınması için önemlidir.
+İnovasyon ile büyük işler başarabiliriz.	Yenilik ile büyük işler başarabiliriz.
+Bir şirkette inovasyon yoksa gelişme de yoktur.	Bir şirkette yenilik yoksa gelişme de yoktur.
+Şirketin inovasyon için yatırdığı para miktarı çok düşük nasıl olacak o yenilikler.	Şirketin yenilik için yatırdığı para miktarı çok düşük nasıl olacak o yenilikler.
+Gelişim inovasyon ile olur.	Gelişim yenilik ile olur.
+Geliştireceksen ona inovasyon kattı değerli olsun.	Geliştireceksen ona yenilik kattı değerli olsun.
+Tesla son derece inovasyona bağlı bir kişiydi.	Tesla son derece yeniliğe bağlı bir kişiydi.
+Nedir bu inovasyondan kasıt?	Nedir bu yenilikten kasıt?
+Ülkeler ve şirketler için inovasyon yoksa ölüm vardır.	Ülkeler ve şirketler için yenilik yoksa ölüm vardır.
+Hollanda tarım konusunda son derece inovasyon yapan bir ülke.	Hollanda tarım konusunda son derece yenilik yapan bir ülke.
+toplantı set etmişim de haberim yokmuş.	toplantı ayarlamaşım da haberim yokmuş.
+toplantı set etmek.	toplantı ayarlamak.
+Haftaya toplantı set etmek için mail attım.	Haftaya toplantı ayarlamak için mail attım.
+Bu haftaya set edelim. 	bu haftaya ayarlayalım. 
+Sizinle hemen bir meeting set edelim.	Sizinle hemen bir toplantı ayarlayalım.
+Ekibimle bir geri bildirim oturumu set edeceğim.	Takımımla bir geri bildirim oturumu ayarlayacağım.
+Şirketçe yeni bir konferans set ettik.	Şirketçe yeni bir konferans ayarladık.
+Yeni bir ürün için toplantı set edelim.	Yeni bir ürün için toplantı ayarlayalım.
+Yeni set edilmiş bir konferansa gittim.	Yeni ayarlanmış bir konferansa gittim.
+Her pazartesi bir meeting set etmeliyiz.	Her pazartesi bir toplantı ayarlamalıyız.
+Her haftaya meeting set etmeliyiz.	Her haftaya görüşme ayarlamalıyız.
+Takımla beraber konuşmayı set edeceğiz.	Takımla beraber konuşmayı ayarlayacağız.
+Seminerde konuşan kişiyle hemen toplantı set etmeliyiz.	Seminerde konuşan kişiyle hemen toplantı ayarlayacağız.
+Konferansta tanıştığım insanlarla yeni bir görüşme set ettik.	Konferansta tanıştığım insanlarla yeni bir görüşme ayarladık.
+Toplantının notlarını başka bir zaman konuşmak için oturum set edelim.	Toplantının notlarını başka bir zaman konuşmak için oturum ayarlayalım.
+Üst yöneticiler ile toplantı set ettik.	Üst yöneticiler ile toplantı ayarladık.
+İnsanlarla bir durumu tartışmak için toplantı set ettik.	İnsanlarla bir durumu tartışmak için toplantı ayarladık.
+Önümüzdeki hafta yeni bir yemek set edelim.	Önümüzdeki hafta yeni bir yemek ayarlayalım.
+Set edilen toplantıya o katılmadı.	Ayarlanan toplantıya o katılmadı.
+Gideceğimiz yer de kalabilmek için rezervasyon set ettik.	Gideceğimiz yer de kalabilmek için rezervasyon ayarladık.
+Projenin deadline geliyor. Projenin son teslim zamanı geliyor.
+Yapılacak olacak projenin deadline belli olmadı. Yapılacak olacak projenin son teslim zamanı belli olmadı.
+Müşteri deadline hakkında bir bilgi vermedi. Müşteri son teslim zamanı hakkında bir bilgi vermedi.
+Çalışanlar deadline yüzünden telaşlandılar. Çalışanlar son teslim zamanı yüzünden telaşlandılar.
+Mesailer projenin deadline yüzünden uzatıldı. Mesailer projenin son teslim zamanı yüzünden uzatıldı.
+Patrondan deadline için değişiklik istediler. Patrondan son teslim zamanı için değişiklik istediler.
+Deadline unutulduğu için proje yetiştirilemedi.  Son teslim zamanı unutulduğu için proje yetiştirilemedi.
+Deadline olmayan işler bir türlü bitmiyordu.  Son teslim zamanı olmayan işler bir türlü bitmiyordu.
+Projeye bazı şeyler eklenince deadline uzatıldı. Projeye bazı şeyler eklenince son teslim zamanı uzatıldı.
+Projenin deadline gelene kadar herkes çalışmak zorundaydı. Projenin son teslim zamanı gelene kadar herkes çalışmak zorundaydı.
+Bu toplantıda konuşulacakların check edilmesi gerekiyor.  Bu toplantıda konuşulacakların  denetlenmesi gerekiyor.
+Check edilen konularda sonradan sıkıntı çıktı.  Denetlenen konularda sonradan sıkıntı çıktı.
+Yazdığı kodları check etmediği için birden fazla hata çıktı. Yazdığı kodları denetlemediği için birden fazla hata çıktı.
+Asistanın check edeceği evraklar bitti. Asistanın denetleyeceği evraklar bitti.
+Patron check etmek için ofise geldi. Patron denetlemek için ofise geldi. 
+Check edilen defterler kayboldu. Denetlenen defterler kayboldu.
+Toplantıdan ortaya çıkan sorunlar check edilip tekrar konuşulacak. Toplantıdan ortaya çıkan sorunlar denetlenip tekrar konuşulacak.
+Bu işin check edilecek bir tarafı yok. Bu işin denetlenecek bir tarafı yok.
+Banka hesabını check etmediği için hesabı kapanmış. Banka hesabını denetlemediği için hesabı kapanmış.
+Check edilecek birden fazla gıda firması var. Denetlenecek birden fazla gıda firması var.
+Bu yıl ki lansman çok konuşuldu. Bu yıl ki tanıtım çok konuşuldu.
+Lansmanda podyuma çıkacak mankenleri buldular. Tanıtımda podyuma çıkacak mankenleri buldular.
+Lansman zamanı birden fazla gazeteci oraya gelecek. Tanıtım zamanı birden fazla gazeteci oraya gelecek.
+Lansmanın hazırlığına bir hafta önceden başladılar. Tanıtımın hazırlığına bir hafta önceden başladılar.
+Lansmana kadar bütün üretimleri bitirmek zorundalardı. Tanıtıma kadar bütün üretimleri bitirmek zorundalardı.
+Lansman sırasında şirket sahibi konuşma yaptı. Tanıtım sırasında şirket sahibi konuşma yaptı.
+Lansman için sunum hazırlandı. Tanıtım için sunum hazırlandı.
+Lansmanda misafirlere içecek servisi yapıldı. Tanıtımda misafirlere içecek servisi yapıldı.
+Lansman beklentinin çoğunu karşıladı. Tanıtım beklentinin çoğunu karşıladı.
+Beklenen kişiler lansmana gelmediler. Beklenen kişiler tanıtıma gelmediler.
+Bu absürt olaylar hakkında konuşmak istemiyorum. Bu saçma olaylar hakkında konuşmak istemiyorum.
+Ne kadar absürt konuşuyorsun. Ne kadar saçma konuşuyorsun.
+Absürt olaylar hep benim başıma gelir. Saçma olaylar hep benim başıma gelir.
+Absürt paylaşımlar yüzünden insanlar vakit kaybı yaşıyor.  Saçma paylaşımlar yüzünden insanlar vakit kaybı yaşıyor. 
+Absürt kitaplar okumaya bayılır. Saçma kitaplar okumaya bayılır.
+Bu konu hakkında düşünceleri absürttü.  Bu konu hakkında düşünceleri saçmaydı. 
+Absürt bir olay yüzünden şaşkına döndü. Saçma bir olay yüzünden şaşkına döndü.
+Bazı kelimeler çok absürttü. Bazı kelimeler çok saçmaydı.
+Konu çok absürttü. Konu çok saçmaydı.
+En absürt cümleler bu sitede var. En saçma cümleler bu sitede var.
+Bu test analiz edildi. Bu test çözümlendi.
+Analiz edilmesi gereken bazı grafikler var. Çözümlenmesi gereken bazı grafikler var.
+Bu süreçte işleri analiz etmek zor olacaktır. Bu süreçte işleri çözümlemek zor olacaktır.
+Analiz süreci boyunca çok çalışmalıyız. Çözümleme süreci boyunca çok çalışmalıyız.
+Ne kadar iyi analiz yapılırsa o kadar iyi anlaşılır. Ne kadar iyi çözümleme yapılırsa o kadar iyi anlaşılır.
+Soruyu kodlamadan önce analiz etmek gerekir. Soruyu kodlamadan önce çözümlemek gerekir.
+Makalelerde bazı analizler yapılmış. Makalelerde bazı çözümlemeler yapılmış.
+Öğretmen konuyu iyi bir  şekilde analiz etti. Öğretmen konuyu iyi bir  şekilde çözümledi.
+Bazı problemleri anlamak için analiz etmek gerekir. Bazı problemleri anlamak için çözümlemek gerekir.
+Bir yıllık çalışmasını analiz etti. Bir yıllık çalışmasını çözümledi.
+Vizyon sahibi insan bulmak zor. İleri görüş sahibi insan bulmak zor.
+Vizyonuna güvendiği için bu kadar iddialıydı. İleri görüşüne güvendiği için bu kadar iddialıydı.
+Şirketin vizyonu gayet iyi. Şirketin ileri görüşü gayet iyi.
+Vizyon sahibi olmak için çok çalıştı. İleri görüş sahibi olmak için çok çalıştı.
+Vizyon şirketler arasında önemli bir kriter haline geldi. İleri görüş şirketler arasında önemli bir kriter haline geldi.
+Vizyon sahibi olmak için çok gelişmesi gereken şirketler vardı. İleri görüş sahibi olmak için çok gelişmesi gereken şirketler vardı.
+Kendiniz ile ilgili vizyonunuzu arttırın. Kendiniz ile ilgili ileri görüşünüzü arttırın.
+Destek alacağınız değerlere dayalı bir vizyonunuz olmalıdır. Destek alacağınız değerlere dayalı bir ileri görüşünüz olmalıdır.
+Vizyon geleceği paylaşmaktır. İleri görüş geleceği paylaşmaktır.
+Vizyon soyut bir kavram değildir. İleri görüş soyut bir kavram değildir.
+Sana cc yollayacağım. Sana elektronik posta bilgisi yollayacağım.
+Cc ye onu eklemeyi unuttuğu için azar işitti. elektronik posta bilgisine onu eklemeyi unuttuğu için azar işitti.
+Toplantıdaki herkesi ccledi. Toplantıdaki herkesi elektronik posta bilgisine ekledi.
+Elektronik posta gönderirken beni de ccler misin? Elektronik posta gönderirken beni de elektronik posta bilgisine ekler misin? 
+Herkesi cclemesi sorun çıkardı. Herkesi elektronik posta bilgisine eklemesi sorun çıkardı. 
+Cclemeyi bilmediği için birden fazla kişiye elektronik posta gönderemedi. Elektronik posta bilgisine eklemeyi bilmediği için birden fazla kişiye elektronik posta gönderemedi.
+Ona gelen iletileri cclemesi gerekiyordu.  Ona gelen iletileri elektronik posta bilgisine eklemesi gerekiyordu. 
+Cclemek isterken yanlış yaptı. Elektronik posta bilgisine eklemek isterken yanlış yaptı.
+Cclemeyi bilmiyordu. Elektronik posta bilgisine eklemeyi  bilmiyordu.
+Elektronik posta gönderirken cc kısmı çalışmıyordu. Elektronik posta gönderirken elektronik posta bilgisine ekleme kısmı çalışmıyordu.
+Fulltime iş aramaktayım. Tam zamanlı iş aramaktayım.
+Fulltime işler onu çok yoruyordu. Tam zamanlı işler onu çok yoruyordu.
+İş ararken fulltime olmasını istiyordu. İş ararken tam zamanlı olmasını istiyordu.
+Fulltime çalıştığında eve geç geliyordu. Tam zamanlı çalıştığında eve geç geliyordu.
+Fulltime işler için hiç vakti yoktu. Tam zamanlı işler için hiç vakti yoktu.
+Babasının çalıştığı şirket fulltime çalışıyordu. Babasının çalıştığı şirket tam zamanlı çalışıyordu.
+Fulltime olarak buradayız. Tam zamanlı olarak buradayız.
+Fulltime çalışan işçi ek iş yapamıyordu. Tam zamanlı çalışan işçi ek iş yapamıyordu.
+Fulltime işlerde genellikle sigorta olur. Tam zamanlı işlerde genellikle sigorta olur.
+Fulltime çalıştığı için çok fazla maaş alıyordu. Tam zamanlı çalıştığı için çok fazla maaş alıyordu.
+İnovasyon süreci uzun sürmüştü. Yenilik süreci uzun sürmüştü.
+İnovasyon sürecini hızlandırmak için eleman alımı yapıldı. Yenilik sürecini hızlandırmak için eleman alımı yapıldı.
+İnovasyon neden önemlidir?    Yenilik neden önemlidir? 
+İnovasyon bir buluş değildir. Yenilik bir buluş değildir.
+İnovasyon yapan bazı firmalar vardı. Yenilik yapan bazı firmalar vardı.
+İnovasyon ekonomisi bu aralar sık takip ediliyor. Yenilikçi ekonomisi bu aralar sık takip ediliyor.
+İnovasyona dayalı rekabetçilik arttı. Yenilikçiliğe dayalı rekabetçilik arttı.
+Şirketin başarısını inovasyona borçluydular. Şirketin başarısını yeniliğe borçluydular.
+İnovasyon örneklerini incelediler. Yenilikçi örnekleri incelediler. 
+İnovasyonu teşvik eden bir ortam yaratmaya başladı. Yeniliğe teşvik eden bir ortam yaratmaya başladı.
+Toplantı hızlı bir şekilde set edildi. Toplantı hızlı bir şekilde ayarlandı.
+Set edilmesi gereken bir organizasyon vardı. Ayarlanması gereken bir organizasyon vardı.
+Toplantıyı set etmeye çalışırken zaman sıkıntısı yaşadılar. Toplantıyı ayarlamaya çalışırken zaman sıkıntısı yaşadılar.
+Bu evrakların set edilmesi gerekebilir. Bu evrakların ayarlanması gerekebilir.
+Set edilecek bir çok toplantı vardı. Ayarlanacak bir çok toplantı vardı.
+Toplantı set edilmediği için sorunlar konuşulmadı. Toplantı ayarlanmadığı için sorunlar konuşulmadı.
+Yanlış bir görüşme set edildi. Yanlış bir görüşme ayarlandı.
+Toplantı set edildiği halde kimse gelmedi. Toplantı ayarlandığı halde kimse gelmedi.
+İşler set edilirken bazı işler unutulmuş. İşler ayarlanırken bazı işler unutulmuş.
+Listeler set edildikten sonra herkese verildi. Listeler ayarlandıktan sonra herkese verildi.
+Projelerin deadline olmak zorunda değil.	Projelerin son teslim tarihi olmak zorunda değil.	
+Deadline çok önemli.	Son teslim zamanı çok önemli.
+Şirket sahibi deadline uzattı.	Şirket sahibi son teslim tarihini uzattı.		
+Projenin deadline konuşmayı unutmuşlar.	Projenin son teslim tarihini konuşmayı unutmuşlar.		
+Bugün takım liderleri olmadığı için deadline karar veremediler.	Bugün takım liderleri olmadığı için son teslim tarihine karar veremediler.
+Deadline dan önce işi bitirmelisin.	Son teslim tarihinden önce işi bitirmelisin.
+Projenin deadline yaklaşıyor.	Projenin son teslim tarihi yaklaşıyor.
+Bir tane deadline'im var.	Bir tane son teslim tarihim var.
+Çalışanlar deadline bugün olduğunu bilmiyordu.	Çalışanlar son teslim tarihinin bugün olduğunu bilmiyordu.
+Bu zamana kadar hiç deadline kaçırmadım.	Bu zamana kadar hiç son teslim tarihi kaçırmadım.
+Check edilmesi gereken işler bitmedi.	Denetlenmesi gereken işler bitmedi.
+Check etmek için ofise gitti.	Denetlemek için ofise gitti.
+Evrakların check edilip imzalanması gerekti.	Evrakların denetlenip imzalanması gerekti.
+Check edilmeyen kağıtlar rafta duruyordu.	Denetlenmeyen kağıtlar rafta duruyordu.
+İşlerin check edilmesi için ofise eleman alındı.	İşlerin denetlenmesi için ofise eleman alındı.
+Yanlış check edildiği için bazı kağıtlar çöpe atılmış.	Yanlış denetlendiği için bazı kağıtlar çöpe atılmış.
+Tahlillerin check edilmesi için asistanlar doktorun yanına gitti.	Tahlillerin denetlenmesi için asistanlar doktorun yanına gitti.
+Tahlillerin check edilmesi gereken bir durumu yoktu.	Tahlillerin denetlenmesi gereken bir durumu yoktu.
+Kan değerlerini check edip ona göre ilaç verdi.	Kan değerlerini denetleyip ona göre ilaç verdi.
+Fabrikada her zaman güvenlik için işçiler check edilirdi.	Fabrikada her zaman güvenlik için işçiler denetlenirdi.
+Bu gece lansmanın en şık kadını sensin.	Bu gece tanıtımın en şık kadını sensin.
+Lansman boyunca gözler hep onun üzerindeydi.	Tanıtım boyunca gözler hep onun üzerindeydi.
+Lansman gecesi olaylar yaşandı.	Tanıtım gecesi olaylar yaşandı.
+Lansmanda tanıtılan ürün çalışmadı.	Tanıtımda tanıtılan ürün çalışmadı.
+Lansman için iki tane stand yeri kuruldu.	Tanıtım için iki tane stand yeri kuruldu.
+Herkes markayı lansmanda tanıdı.	Herkes markayı tanıtımda tanıdı.
+Lansman bizim markamızı insanlara tanıttıracaktır.	Tanıtım bizim markamızı insanlara tanıttıracaktır.	
+Lansman için herkes beraber çalıştı.	Tanıtım için herkes beraber çalıştı.
+Şirket lansman yapmaya gerek duymadı.	Şirket tanıtım yapmaya gerek duymadı.
+İnsanlar lansman için bilet satın aldı.	İnsanlar tanıtım için bilet satın aldı.
+Bu absürt işler yüzünden işlerim aksadı.	Bu saçma işler yüzünden işlerim aksadı.
+Her zaman absürt olaylar benim başıma gelir.	Her zaman saçma olaylar benim başıma gelir.
+Absürt olan da ne bileyim.	Saçma olan da ne bileyim.
+Absürt olmayan da kendisine yakışıklı demesin.	Saçma olmayan da kendisine yakışıklı demesin.
+Absürt işler benim işlerimdir.	Saçma işler benim işlerimdir.
+Bazı mağazalar çok absürt duruyor.	Bazı mağazalar çok saçma duruyor.
+Absürt kıyafetler giymeye bayılır.	Saçma kıyafetler giymeye bayılır.
+Absürt insanlar kendilerini çok zeki sanıyor.	Saçma insanlar kendilerini çok zeki sanıyor.
+Bana hediye olarak absürt birşey almış.	Bana hediye olarak saçma birşey almış.
+Bu evin dekorasyonu çok absürt.	Bu evin dekorasyonu çok saçma.
+Analiz işi için kadınlar daha uygun bulunuyor.	Çözümleme işi için kadınlar daha uygun bulunuyor.
+Analiz etmek insanın beynini geliştirir.	Çözümlemek insanın beynini geliştirir.
+Analiz etmek insanın düşünce yapısını geliştirir.	Çözümlemek insanın düsünce yapısını geliştirir.
+Bir olayı analiz etmek için her detayını düşünmek gerekir.	Bir olayı çözümlemek için her detayını düşünmek gerekir.
+Analiz etmek için çok vakit lazım.	Çözümlemek için çok vakit lazım.
+Formüller analiz edilerek yeni bir teori oluşturulacak.	Formüller çözümlenerek yeni bir teori oluşturulacak.
+Analiz için gerekli malzemeler bulunmuyordu.	Çözümlemek için gerekli malzemeler bulunmuyordu.
+Çalışmaları analiz edilerek sonuca ulaşıldı.	Çalışmaları çözümleyerek sonuca ulaşıldı.
+Analiz edilmesi gereken evraklar için zaman lazımdı.	Çözümlenmesi gereken evraklar için zaman lazımdı.
+Projeyi kodlamadan önce problemin analiz edilmesi gerekir.	Projeyi kodlamadan önce problemin çözümlenmesi gerekir.
+Şirketler için vizyonlar önemlidir.	Şirketler için ileri görüş önemlidir.
+Vizyon önemli bir terimdir.	İleri görüş önemli bir terimdir.	
+Vizyon insanlara çok şey katar.	İleri görüş insanlara çok şey katar.
+Destek alacağınız değerlere dayalı bir vizyonunuz olmalı.	Destek alacağınız değerlere dayalı bir ileri görüşünüz olmalı.
+Vizyon görülemez olan şeyleri görebilme sanatıdır.	İleri görüş, görülemez olan şeyleri görebilme sanatıdır.
+İyi düşünülmüş bir vizyon bildirisi.	İyi düşünülmüş bir ileri görüş bildirisi.
+Bu kurumun bir vizyonu olduğundan herkesin haberi var.	Bu kurumun bir ileri görüşü olduğundan herkesin haberi var.
+Genellikle vizyon bildirgelerinde kullanılır.	Genellikle ileri görüş bildirgelerinde kullanılır.
+Vizyon tanımına pek katılmıyorum.	İleri görüş tanımına pek katılmıyorum.
+Bazı firmalar vizyonlarını paylaştı.	Bazı firmalar ileri görüşlerini paylaştı.	
+Cc ye beni de ekle.	Eposta bilgisine beni de ekle.
+Cc ye eklerken bazı hatalar alıyorum.	Eposta bilgisine eklerken bazı hatalar alıyorum.
+Cc'ye en fazla iki kişi ekleyebilirsin.	Eposta bilgisine en fazla iki kişi ekleyebilirsin.
+Ccden beni çıkarır mısın?	Eposta bilgisinden beni çıkarır mısın?
+Cc ye nasıl eklendiğini internetten araştırdım.	Eposta bilgisine nasıl eklendiğini internetten araştırdım.
+Müdür her zaman kendisinin ccye eklenmesini ister.	Müdür her zaman kendisinin eposta bilgisine eklenmesini ister.
+Cc deki insanların bu eposta ile bir alakası yok.	Eposta bilgisindeki insanların bu eposta  ile bir alakası yok.
+Epostada cc ekleme kısmını bulamadım.	Epostada eposta bilgisine ekleme kısmını bulamadım.
+Çoğu çalışanlar eposta gönderirken cc kısmını atlıyor.	Çoğu çalışanlar eposta gönderirken eposta bilgisi kısmını atlıyor.
+Bu takımdaki herkesi ccye eklemek zorundasın.	Bu takımdaki herkesi eposta bilgisine eklemek zorundasın.
+Fulltime öğrencilik yapmaktayım.	Tam zamanlı öğrencilik yapmaktayım.
+Fulltime olarak fakültede asistanlığa başladım.	Tam zamanlı olarak fakültede asistanlığa başladım.
+Fulltime işlerin ücreti daha fazla oluyor.	Tam zamanlı işlerin ücreti daha fazla oluyor.
+Bazı kadınlar fulltime çalışmayı tercih etmiyor.	Bazı kadınlar tam zamanlı çalışmayı tercih etmiyor.
+Fulltime öğrenci kavramını ilk defa duydum.	Tam zamanlı öğrenci kavramını ilk defa duydum.
+Fulltime olarak personel alımları yapacağız.	Tam zamanlı olarak personel alımları yapacağız.
+Fulltime eğitimler daha öğretici oluyor.	Tam zamanlı eğitimler daha öğretici oluyor.
+Mecbur olmasa, fulltime çalışmak istemiyordu.	Mecbur olmasa, tam zamanlı çalışmak istemiyordu.
+Fulltime olarak çalışmayı bıraktım.	Tam zamanlı olarak çalışmayı bıraktım.
+Fulltime olarak çalışmak beni çok korkutuyor.	Tam zamanlı olarak çalışmak beni çok korkutuyor.
+Festivalda birden fazla inovasyonlara yer verilecekmiş.	Festivalda birden fazla yeniliklere yer verilecekmiş.
+İnovasyonlar farklı alanlarda olabilir.	Yenilikler farklı alanlarda olabilir.
+İnovasyon kişinin gelişiminde çok önemlidir.	Yenilik kişinin gelişiminde çok önemlidir.
+Girişimci olabilmek için inovasyon gerekli olabilir.	Girişimci olabilmek için yenilik gerekli olabilir.
+Bazı kurumların inovasyon yolculukları gerçekten çok etkileyici.	Bazı kurumların yenilik yolculukları gerçekten çok etkileyici.	
+Krizi fırsata dönüştüren inovasyonlar.	Krizi fırsata dönüştüren yenilikler.
+İnovasyon yıkıcı olmalıdır.	Yenilik yıkıcı olmalıdır.
+İnovasyon, yaratıcı bir fikri katma değer yaratabilir.	Yenilik, yaratıcı bir fikri katma değer yaratabilir.
+İnovasyon günümüzde önemli bir kavram olmaktadır.	Yenilik günümüzde önemli bir kavram olmaktadır.
+Gençler hep bir inovasyon peşinde.	Gençler hep bir yenilik peşinde.
+Bu randevuyu set etmek için çok uğraştım.	Bu randevuyu ayarlamak için çok uğraştım.
+Arkadaşım bir program set edince hep sorun çıkıyordu.	Arkadaşım bir program ayarlayınca hep sorun çıkıyordu.
+Toplantılar henüz set edilmedi.	Toplantılar henüz ayarlanmadı.
+Bu dersin müfredatı set edilmedi.	Bu dersin müfredatı ayarlanmadı.
+Hocalar dersleri set etmek için toplantı odasında bekliyolardı.	Hocalar dersleri ayarlamak için toplantı odasında bekliyolardı.
+Burada çalışanların, çalışma izinlerinin set edilmesi gerekiyor.	Burada çalışanların, çalışma izinlerinin ayarlanması gerekiyor.
+Programımda set edilmesi gereken bir sürü iş var.	Programımda ayarlanması gereken bir sürü iş var.
+Annesi için doğum günü partisi set etti.	Annesi için doğum günü partisi ayarladı.
+Tanıtım programı için yiyecekleri hemen set ettiler.	Tanıtım programı için yiyecekleri hemen ayarladılar.
+Listedeki ürünler için farklı bir çözüm set edilecek.	Listedeki ürünler için farklı bir çözüm ayarlanacak.
+deadline yaklaşıyor elimizi çabuk tutmamız lazım.	son teslim zamanı yaklaşıyor elimizi çabuk tutmamız lazım.
+projeyi deadline gelmeden bitirmemiz gerekiyor.	projeyi son teslim tarihi gelmeden bitirmemiz gerekiyor.
+deadline konusu yaklaştıkça sıkılıyorum.	son teslim tarihi konusu yaklaştıkça sıkılıyorum		
+şu an ki en büyük sorunumuz deadline ın gelmek üzere olması.	şu an ki en büyük sorunumuz son teslim zamanının gelmek üzere olması.
+saatlerce sana deadline ın ne olduğunu anlatabilirim.	saatlerce sana son teslim tarihinin ne olduğunu anlatabilirim.
+burada deadline ın ne olduğunu bilmeyen adamlarla iş yapıyoruz.	burada son teslim tarihinin ne olduğunu bilmeyen adamlarla iş yapıyoruz.
+deadline dediğimizde hepimizin aklına aynı şey gelmeli.	son teslim tarihi dediğimizde hepimizin aklına aynı şey gelmeli.
+maalesef projenin deadlineı bugündü.	maalesef projenin son teslim zamanı bugündü.
+özür dilerim deadline'ın geçmiş olduğunu görmemişim.	özür dilerim son teslim zamanı'nın geçmiş olduğunu görmemişim.
+deadline şu an için büyük bir engel değil.	son teslim zamanı şu an için büyük bir engel değil.
+Mail'i sana yolladım check eder misin?	Mail'i sana yolladım denetler misin?
+bu durumu ona rapor ettim ancak daha check etmedi.	bu durumu ona rapor ettim ancak daha denetlemedi.
+eve gidince projeyi bir check edersen sevinirim.	eve gidince projeyi bir denetlersen sevinirim.
+daha dosyaları check etmedim.	daha dosyaları denetlemedim.
+projeyi bir check edersen sevinirim.	projeyi bir denetlersen sevinirim.
+hiç kimse bunu check etmeyecek mi?	hiç kimse bunu denetlemeyecek mi?
+projeyi kafanıza göre check edebilirsiniz.	projeyi kafanıza göre denetleyebilirsiniz.
+bu dosyayı daha önce hiç check etmedim.	bu dosyayı daha önce hiç denetlemedim.
+derse başlamadan önce müfredatı bir check etmemiz lazım.	derse başlamadan önce müfredatı bir denetlememiz lazım.
+hiç check edilmemiş bir dosya ile karşı karşıyayız.	hiç denetlenmemiş bir dosya ile karşı karşıyayız.
+bu ürünün lansmanı henüz yapılmadı.	bu ürünün tanıtımı henüz yapılmadı.
+lansmanı yapılmamış ürünleri bünyemize katmıyoruz.	tanıtımı yapılmamış ürünleri bünyemize katmıyoruz.
+Bu işi başarabilmen için lansmanın çok güzel geçmesi gerekiyor.	bu işi başarabilmen için tanıtımın çok güzel geçmesi gerekiyor.
+yarın akşam ürünün lansmanı gerçekleşecek.	yarın akşam ürünün tanıtımı gerçekleşecek.
+yeni arabanın lansmanı bugün yapıldı.	yeni arabanın tanıtımı bugün yapıldı.
+bu firma yeni saatinin lansmanını yapmaktan vazgeçti.	bu firma yeni saatinin tanıtımını yapmaktan vazgeçti.
+firmanın lansmanında rezalet çıktı.	firmanın tanıtımında rezalet çıktı.
+lansmanlarda genellikle yeni özellikler tanıtılır.	tanıtımlarda genellikle yeni özellikler tanıtılır.
+son lansmanda arabaları patladı.	son tanıtımda arabaları patladı.
+lansmanlar sadec araba için yapılmaz.	tanıtımlar sadece araba için yapılmaz.
+absürt kelimesi içerisinde pek çok anlam taşıyan bir kelime olabiliyor.	saçma kelimesi içerisinde pek çok anlam taşıyan bir kelime olabiliyor.
+absürt absürt konuşuyor.	saçma saçma konuşuyor.
+absürt kelimeler ile kafamızı karıştırıyor.	saçma kelimeler ile kafamızı karıştırıyor.
+absürt konuşmaları var ve canımı sıkıyor.	saçma konuşmaları var ve canımı sıkıyor.
+internetten absürtün anlamına baktım.	internetten saçmanın anlamına baktım.
+bu çok absürt bir durum olmaya başladı.	bu çok saçma bir durum olmaya başladı.
+dersin bazı konuları bayağı absürt.	dersin bazı konuları bayağı saçma.
+absürt'ü çoğu insan farklı cümlelerde kullanabiliyor.	saçma'yı çoğu insan farklı cümlelerde kullanbiliyor.
+bazı kelimelerin anlamı çok absürt olabiliyor.	bazı kelimelerin anlamı çok saçma olabiliyor.
+absürt olmak göreceli bir kavram.	saçma olmak göreceli bir kavram.
+dersin yeni konularını analiz etti.	dersin yeni konularını çözümledi.
+tüm piyasayı analiz etmem gerekiyor.	tüm piyasayı çözümlemem gerekiyor.
+yeni gelen kişileri hemen analiz etti.	yeni gelen kişileri hemen çözümledi.
+notların analizi bir gün sürecekmiş.	notların çözümlenmesi bir gün sürecekmiş.
+her konunun analizi yapılamayabilir.	her konunun çözümlemesi yapılamayabilir.
+çok iyi bir analizcidir.	çok iyi bir çözümleyicidir.
+ülkelerin bu durumda birbirlerini analiz etmeleri gerekiyor.	ülkelerin bu durumda birbirlerini çözümlemeleri gerekiyor.
+sonuçlarımı analiz etmem gerek.	sonuçlarımı çözümlemem gerek.
+yeni bir konuya geçmeden önce onu analiz etmen gerekiyor.	yeni bir konuya geçmeden önce onu çözümlemen gerekiyor.
+bu projede bir analiz hatası var.	bu projede bir çözümleme hatası var.
+ne kadar vizyonsuz bir adamsın.	ne kadar ileri görüşsüz bir adamsın.
+bazı konular için vizyon gereklidir.	bazı konular için ileri görüş gereklidir.
+vizyonumu geliştirmeye çalışıyorum.	 görüşümü değiştirmeye çalışıyorum.
+çok vizyonlu bir insansın.	çok ileri görüşlü bir insansın.
+bu kitap vizyonumu geliştirdi.	bu kitap ileri görüşümü geliştirdi.
+düşünebilmek için vizyon da gereklidir.	düşünebilmek için ileri görüş de gereklidir.
+vizyonu olan insanlar yaptıkları hatalardan ders çıkartırlar.	ileri görüşü olan insanlar yaptıkları hatalardan ders çıkartırlar.
+şu yaptığın hareket ne kadar vizyon sahibi olduğunu açıkladı.	şu yaptığın hareket ne kadar ileri görüşlü olduğunu açıkladı.
+vizyon kimileri için gerekli değilken kimileri için vazgeçilmezdir.	ileri görüşlülük kimileri için gerekli değilken kimileri için vazgeçilmezdir.
+gazi mustafa kemal paşa çok vizyonlu bir adamdı.	gazi mustafa kemal paşa çok ileri görüşlü bir adamdı
+cclemek gün içinde sık sık duyduğumuz tabirlerden biridir.	bilgiye eklemek gün içinde sık sık duyduğumuz tabirlerden biridir.
+beni  ccler misin?	beni elektronik posta bilgisine ekler misin?
+kaç kişi cclendi?	kaç kişi bilgiye eklendi?
+herkes birbirini cclemiş.	herkes birbirini elektronik posta bilgisine eklemiş
+seni neden ccleyeyim ki?	seni neden elektronik posta bilgisine ekleyeyim ki?
+son projeye beni de ccler misin?	son projeye beni de bilgiye ekler misin?
+sen kimi ccledin ki?	sen kimi elektronik posta bilgisine ekledin ki?
+ben neden cclenmedim?	ben neden bilgiye eklenmedim?
+bu çocuk burada cclenmek için ne katkı sağladı?	bu çocuk burada elektronik posta bilgisine eklenmek için ne katkı sağladı?
+bir insan bir insanı neden ccler ki?	br insan bir insanı neden bilgiye ekler ki?
+uzun zamandır full time bir iş arıyorum.	uzun zamandır tam zamanlı bir iş arıyorum.
+full time işlerin maaşları fena değil.	tam zamanlı işlerin maaşları fena değil.
+bu proje için full time çalışmam gerekecek.	bu proje için tam zamanlı çalışmam gerekecek.
+full time bir iş için yeterli zamanım yok.	tam zamanlı bir iş için yeterli zamanım yok.
+full time yerine yarı zamanlı bir iş baksam daha iyi olacak.	tam zamanlı yerine yarı zamanlı bir iş baksam daha iyi olacak.
+bu konuda full time bir iş bulamazsın.	bu konuda tam zamanlı bir iş bulamazsın.
+bu ücret full time için mi veriliyor?	bu ücret tam zaman için mi veriliyor?
+full time çalşımaya ne dersin?	tam zamanlı çalışmaya ne dersin?
+normal çalışanların aldığı ücret full time olarak mı veriliyor?	normal çalışanların aldığı ücret tam zamanlı olarak mı veriliyor?
+bu işe full time kendimi veremeyebilirim.	bu işe tam zamanlı olarak kendimi veremeyebilirim.
+tam olarak inovasyon çağındayız.	tam olarak yenilik çağındayız.
+inovasyon bir ülkenin olmazsa olmazıdır.	yenilik bir ülkenin olmazsa olmazıdır.
+bu ortamda yeterli inovasyon mevcut değil.	bu ortamda yeterli yenilik mevcut değil.
+bu altını işlemek için yeterli düzeyde inovasyona sahip değiliz.	bu altını işlemek için yeterli düzeyde yeniliğe sahip değiliz.
+her ülke aynı inovasyon seviyesinde değil.	her ülke aynı yenilik seviyesinde değil.
+inovasyon aslında tek sözcükle açıklanabilecek birşey değil.	yenilik aslında tek sözcükle açıklanabilecek birşey değil.
+inovasyon dünyasında şu düştüğümüz hale bak.	yenilik dünyasında şu düştüğümüz hale bak.
+inovasyon bilgisine sahip değilsin.	yenilik bilgisine sahip değilsin.
+hep eski şeyleri deniyoruz biraz inovasyondan haberin olsun.	hep eski şeyleri deniyoruz biraz yenilikten haberin olsun.
+inovasyon her ülkenin sırtlayamayacağı bir yük.	yenilik her ülkenin sırtlayamayacağı bir yük.
+toplantıyı ne zaman set ediyoruz?	toplantıyı ne zaman ayarlıyoruz?
+tüm gereklilikleri set ettik.	tüm gereklilikleri ayarladık.
+her şey set edilmiş halde bekliyor.	her şey ayarlanmış halde bekliyor.
+herkes hazırsa kişileri bir set edelim.	herkes hazırsa kişileri bir ayarlayalım.
+her gün sonunda toplantılarınızı set edeceksiniz.	her gün sonunda toplantılarınızı ayarlayacaksınız.
+set edilecek bir sürü konu var.	ayarlanacak bir sürü konu var
+her yeni kişi set edilecek yeni bir toplantı demek.	her yeni kişi ayarlanacak yeni bir toplantı demek.
+en son toplantı ne zaman set edilmişti?	en son toplantı ne zaman ayarlanmıştı?
+her beyaz yakalı hayatında en az bir defa set etmek demiştir.	her beyaz yakalı hayatında en az bir defa ayarlamak demiştir.
+set etmek lafını kullanmayan var mı?	ayarlamak lafını kullanmayan var mı?
+her projenin deadline'ı aynı olmayabiliyor.	her projenin son teslim tarihi aynı olmayabiliyor.
+tek bir deadline'a bağlı değiliz.	tek bir son teslim tarihine bağlı değiliz.
+sürekli bir deadline peşindesiniz.	sürekli bir son teslim tarihi peşindesiniz.
+deadline yetişir veya yetişmez önemli değil.	son teslim tarihi yetişir veya yetişmez önemli değil.
+en son çalıştığın projenin deadlineı ne zaman?	en son çalıştığın projenin son teslim tarihi ne zaman?
+deadline'ı ayrı mı yazmalıyız yoksa bitişik mi?	son teslim tarihini ayrı mı yazmalıyız yoksa bitişik mi?
+deadline ı hiç kaçırmadım.	son teslim tarihini hiç kaçırmadım.
+deadline'ı iki hafta uzatabilir miyiz?	son teslim tarihini iki hafta uzatabilir miyiz?
+deadline a iki saatten az bir zaman kaldı.	son teslim tarihine iki saatten az bir zaman kaldı.
+deadline'a az kaldı, yetiştirebilecek misin?	son teslim tarihine az kaldı, yetiştirebilecek misin?
+abi ne yaptın, attığım projeyi check ettin mi?	abi ne yaptın, attığım projeyi denetledin mi?
+kimse check etmiyorsa biz bunu nasıl bitireceğiz?	kimse denetlemiyorsa biz bunu nasıl bitireceğiz?
+ahmet bey listeyi check ettiniz mi?	ahmet bey listeyi denetlediniz mi?
+nalan hanım şunu bir check edelim.	nalan hanım şunu bir denetleyelim.
+arkadaşlar bu dosyayı kim check ediyor?	arkadaşlar bu dosyayı kim denetliyor?
+dostum son bir kez check edebilir misin?	dostum son bir kez denetleyebilir misin?
+sevgili dostlarım benim projemi ne zaman check edeceksiniz?	sevgili dostlarım benim projemi ne zaman denetleyeceksiniz?
+ortada check edilecek hiçbirşey kalmadı.	ortada denetlenecek hiçbirşey kalmadı.
+her şeyi tek tek check etmem gerekiyor.	her şeyi tek tek denetlemem gerekiyor.
+benim notları check edebilir misin?	benim notları denetler misin?
+son projemizin lansmanı ne zaman yapılacak?	son projemizin tanıtımı ne zaman yapılacak?
+bir ürünü lansmanını yapmadan ortaya atmak saçma olur.		bir ürünü tanıtımını yapmadan ortaya atmak saçma olur.
+her proje için tek tek lansman mı yapacağız?	her proje için tek tek tanıtım mı yapacağız?
+insanlardaki bu lansman hastalığı beni öldürüyor.	insanlardaki bu tanıtım hastalığı beni öldürüyor.
+maalesef lansman'a katılamayacağım.	maalesef tanıtıma katılamayacağım.
+son söz her zaman lansmanda söylenir.	son söz her zaman lansman'da söylenir.
+lansmana ne kadar zaman kaldığını bilen var mı?	tanıtıma ne kadar zaman kaldığını bilen var mı?
+lansmanın bitmesine çok az bir zaman kaldı.	tanıtımın bitmesine çok az bir zaman kaldı
+tam da lansman yaklaşırken olur mu?	tam da tanıtım yaklaşırken olur mu?
+maalesef lansman'a çıkamayacağız.	maalesef tanıtım'a çıkamayacağız.
+absürt örnekler verecekseniz bu işe hiç başlamayalım.	saçma örnekler verecekseniz bu işe hiç başlamayalım.
+aykırı olmak için absürt sorular soruyordu.	aykırı olmak için saçma sorular soruyordu.
+illa absürt hareketler yapacaksınız.	illa saçma hareketler yapacaksınız.
+anlamsız ve absürt tavırlarından sıkıldım.	anlamsız ve saçma tavırlarından sıkıldım.
+her sınıfta sırf komiklik olsun diye absürt konuşan birileri vardır.	her sınıfta sırf komiklik olsun diye saçma konuşan birileri vardır.
+hayatımda gördüğüm en absürt fikir.	hayatımda gördüğüm en saçma fikir.
+gereksiz ve absürt sorular sorarak kafasını karıştırıyordu.	gereksiz ve saçma sorular sorarak kafasını karıştırıyordu.
+hayatımda duyduğum en absürt fikir olabilir.	hayatımda duyduğum en saçma fikir olabilir.
+boş ve absürt konuşarak bir yere gelemeyiz.	boş ve saçma konuşarak bir yere gelemeyiz.
+bazen konuşmamak absürt konuşmaktan daha mantıklıdır.	bazen konuşmamak saçma konuşmaktan daha mantıklıdır.
+profesyonel bir insan olduğu için tüm konuşmalarımızı sonradan analiz ediyordu.	profesyonel bir insan olduğu için tüm konuşmalarımızı sonradan çözümlüyordu.
+her bir konu teker teker en ince ayrıntısına kadar analiz edildi.	her bir konu teker teker en ince ayrıntısına kadar çözümlendi.
+istersen analiz eden biri ol istersen normal biri fark etmez.	istersen çözümleyen biri ol istersen normal biri fark etmez.
+konuşulan her konu analiz edilmek zorunda değil.	konuşulan her konu çözümlenmek zorunda değil.
+analiz süreci neredeyse her sektörde etkili bir süreçtir.	çözümleme süreci neredeyse her sektörde etkili bir süreçtir.
+maalesef ki her analizine katılmıyorum.	maalesef ki her çözümlemene katılmıyorum.
+analizinizin çağını arttırmalısınız.	çözümlemenizin çapını arttırmalısınız.
+son dönemlerde türkiye'nin her hareketi analiz ediliyor.	son dönemlerde türkiye'nin her hareketi çözümleniliyor.
+analiz edilen her konu aslında tartışılması gereken bir konudur.	çözümlenen her konu aslında tartışılması gereken bir konudur.
+uçuşların analizi yapıldı.	uçuşların çözümlenmesi yapıldı.
+okuduğun her kitap aslında vizyonunu fazlasıyla genişletir.	okuduğun her kitap aslında ileri görüşünü genişletir.
+vizyon sadece konuşmak ile anlaşılabilir birşey değildir.	ileri görüş sadece konuşmak ile anlaşılabilir birşey değildir.
+her bir insan farklı vizyonlara sahiptir ancak kullanılmadıkça bu özellik zamanla körelir.	her bir insan farklı ileri görüşlere sahiptir ancak kullanılmadıkça bu özellik zamanla körelir.
+vizyon sadece bir kelime değildir, her insanda olması gereken birşeydir.	ileri görüşlülük sadece bir kelime değildir, her insanda olması gereken birşeydir.
+kimse başka birinin vizyonunu kötümseyemez.	kimse başka birinin ileri görüşlülüğünü kötümseyemez.
+vizyon insanlar için farklı anlamlara gelebilir.	ileri görüşlülük insanlar için farklı anlamlara gelebilir.
+vizyonsuz insanlar için kendi geleceğini tehlikeye atmamalısın.	ileri görüşsüz insanlar için kendi geleceğini tehlikeye atmamalısın.
+kimilerine göre tehlikeli olam vizyon, kimilerine göre de tam bir şaheserdir.	kimilerine göre tehlikeli olan ileri görüşlülük, kimilerine göre de tam bir şaheserdir.
+her insan vizyon sahibi olabilir ancak her insan bunu gerçekleştirecek cesarete sahip değildir.	her insan ileri görüş sahibi olabilir ancak her insan bunu gerçekleştirecek cesarete sahip değildir.
+son yazın vizyonumda önemli değişiklikler gerçekleştirdi.	son yazın ileri görüşümde önemli değişiklikler gerçekleştirdi.
+herkes birbirini cclerse ne anlamı kalır?	herkes birbirini elektronik posta bilgisine eklerse ne anlamı kalır?
+son gönderdiğine beni de cclersen ay sonu rahat ederim.	son gönderdiğin e posta bilgisine beni de eklersen ay sonu rahat ederim.
+herkes beni ccle diyor ancak kimse beni cclemiyor.	herkes beni elektronik posta bilgisine ekle diyor ancak kimse beni elektronik posta  bilgisine eklemiyor.
+tek birini cclemek bile bir işe yarıyor.	tek birini elektronik posta bilgisine eklemek bile bir işe yarıyor.
+beni ccleyen her kimse bilgim yoktu.	beni elektronik posta bilgisine ekleyen her kimse bilgim yoktu.
+tüm cclenen insanlar tek çatı altında.	tüm elektronik posta bilgisine eklenen insanlar tek çatı altında.
+son konu hakkında beni kesinlikle cclemelisin.	son konu hakkında beni kesinlikle elektronik posta bilgisine eklemelisin.
+tamam da beni neden cclemedin ?	tamam da beni neden elektronik posta bilgisine eklemedin?
+ahmet bey beni de ccleyebilir misiniz ?	ahmet bey beni de elektronik posta bilgisine ekleyebilir misiniz ? 
+komik olda da son olarak hanımefendiyi de ccleyelim.	komik olda da son olarak hanımefendiyi de elektronik posta bilgisine ekleyelim.
+﻿check	denetlemek
+Check etmeyi sevmiyorum.	Denetlemeyi sevmiyorum.
+Son sözü "Check edin beni ölüyorum" oldu.	Son sözü "denetleyin beni ölüyorum" oldu.
+Beni check etmelisin.	Beni denetlemelisin.
+Eksik bir check listesi mı?	Eksik bir denetleme listesi mı?
+Evet, bebekler için sadece normal bir check listesi var.	Evet, bebekler için sadece normal bir denetleme listesi var.
+Çocuklar belirli aralıklarla check ediliyor.	Çocuklar belirli aralıklarla denetleniyor ediliyor.
+Check listesi yaptırmak istemedi.	Denetleme listesi yaptırmak istemedi.
+Ve eğer başarılı bir doktor olursam, bedava check etmemi bekeleme.	Ve eğer başarılı bir doktor olursam, bedava denetlememi bekeleme.
+Bir check dökümanı yazdırmak işinize yarar gibi görünüyor.	Bir denetleme dökümanı yazdırmak işinize yarar gibi görünüyor.
+Beyler, ikinizin de mallar için check raporu yaptırması gerekiyor gibi gözüküyor.	Beyler, ikinizin de mallar için denetleme raporu yaptırması gerekiyor gibi gözüküyor.
+Bay Vogler, bedava check listesi yaptırmak ister misiniz?	Bay Vogler, bedava denetleme listesi yaptırmak ister misiniz?
+Evet. İki hafta önce check etmeye gelmişti.	Evet. İki hafta önce denetlemeye gelmişti.
+Monterey'e vardığımızda bir check ederiz.	Monterey'e vardığımızda bir denetleriz.
+Bu hastahanede check listesi vardı hastalar için.	Bu hastahanede denetleme listesi vardı hastalar için.
+Sanırım bir check listesi hazırlamalısın.	Sanırım bir denetleme listesi hazırlamalısın.
+Bir check etmelisin, sadece emin olmak için.	Bir denetlemelisin, sadece emin olmak için.
+Foursquare'de check ediyorum mekanı.	Foursquare'de denetliyorum mekanı.
+Phil check etti çünkü listede hata olmadığına emin olmak istiyoruz.	Phil denetledi çünkü listede hata olmadığına emin olmak istiyoruz.
+Tam denetleme için vaktiniz yoksa küçük bir check yapabilirsiniz.	Tam denetleme için vaktiniz yoksa küçük bir denetleme yapabilirsiniz.
+Belki de bir daha check etmelisiniz.	Belki de bir daha denetlemelisiniz.
+listeyi check ettin mi?	listeyi denetledin mi?
+Beni geçen hafta yaptığım check için aramışlar.	Beni geçen hafta yaptığım denetleme aramışlar.
+deadline	son teslim zamanı
+Proje deadline'ı çok yakın.	Proje son teslim zamanı çok yakın.
+deadline toplantısı yaptık.	son teslim zamanı toplantısı yaptık.
+projenin deadline'ına daha çok var.	projenin son teslim zamanına daha çok var.
+Bir deadline'ım var.	Bir son teslim zamanım var.
+Deadline yaklaşıyor.	Son teslim zamanı yaklaşıyor.
+Deadlinedan önce işi bitirmelisin.	Son teslim zamanından önce işi bitirmelisin.
+Ben deadlineı hiç kaçırmadım.	Ben son teslim zamanını hiç kaçırmadım.
+Deadline'ı iki hafta uzatabilir miyiz?	Son teslim zamanını iki hafta uzatabilir miyiz?
+Deadline koyar mısın?	Son teslim zamanı koyar mısın?
+İşi bitirmem için deadline'ım var.	İşi bitirmem için son teslim zamanım var.
+lansman	tanıtım
+Lansman dediğin böyle yapılır.	Tanıtım dediğin böyle yapılır.
+Lansman konuşmasına fazladan polis kuvveti getirmek istiyor.	Tanıtım konuşmasına fazladan polis kuvveti getirmek istiyor.
+Hatta bana kalırsa yarın albüm lansman partisi düzenlememelisin.	Hatta bana kalırsa yarın albüm tanıtım partisi düzenlememelisin.
+Londra'da büyük bir lansman planlıyor.	Londra'da büyük bir tanıtım planlıyor.
+Vade süresi, faiz ve lansman hakkında henüz ayrıntılı bilgi verilmedi.	Vade süresi, faiz ve tanıtım hakkında henüz ayrıntılı bilgi verilmedi
+Lansmanları hiç sevmiyorum.	Tanıtımları hiç sevmiyorum.
+Lansman hediyeleri geldi mi?	Tanıtım hediyeleri geldi mi?
+Senin lansmanın berbattı.	Senin tanıtımın berbattı.
+Benim lansmanım güzeldi.	Benim tanıtımım güzeldi.
+Onun lansmanı idare ederdi.	Onun tanıtımı idare ederdi.
+absürt	saçma
+Ne absürt konuştun öyle.	Ne saçma konuştun öyle.
+Ben absürt konuları hiç sevmem.	Ben saçma konuları hiç sevmem.
+Absürt konuları anlatan insanlar var dünyada.	Saçma konuları anlatan insanlar var dünyada.
+Oyunlarda bazen fazla absürt olaylar olabiliyor.	Oyunlarda bazen fazla saçma olaylar olabiliyor.
+Bu kadar absürtünü hayatımda duymadım.	Bu kadar saçmasını hayatımda duymadım.
+Absürt ne demek, biliyor musun?	Saçma ne demek, biliyor musun?
+Bu çok absürt ve aşağılayıcı.	Bu çok saçma ve aşağılayıcı.
+Bu ikisinden biri absürt değil.	Bu ikisinden biri saçma değil.
+O kadar absürt bir şekilde küçük bir çocuk gibi ki!	O kadar saçma bir şekilde küçük bir çocuk gibi ki!
+Bu çocukların senin kafanı absürt bir hikâyeyle doldurduklarını biliyorum.	Bu çocukların senin kafanı saçma bir hikâyeyle doldurduklarını biliyorum.
+analiz	çözümlemek
+Analiz sonuçları geldi mi?	Çözümleme sonuçları geldi mi?
+Bu tasarımın analizi yeni geldi.	Bu tasarımın çözümlemesi yeni geldi.
+Raporun analizini yaptın mı?	Raporun çözümlemesini yaptın mı?
+Bu sadece bir analiz.	Bu sadece bir çözümleme.
+Durum analizi: umutsuz.	Durum çözümlemesi: umutsuz.
+Onu analiz etmek istiyorsan, annesiyle başla.	Onu çözümlemek istiyorsan, annesiyle başla.
+Kan örneğini analiz için gönderdim.	Kan örneğini çözümleme için gönderdim.
+Bunu neden analiz ettirmek için laboratuvara göndermiyorsun?	Bunu neden çözümlettirmek için laboratuvara göndermiyorsun?
+Senin Freudian analizin kadar eğlenceli değil.	Senin Freudian çözümlemen kadar eğlenceli değil.
+Bakterilerin DNA analizini yaptım.	Bakterilerin DNA çözümlemelerini yaptım.
+Analizlere güvenmiyorum.	Çözümlemelere güvenmiyorum.
+vizyon	ileri görüş
+Bu firmanın vizyonu çok iyi.	Bu firmanın ileri görüşü çok iyi.
+Vizyon sahibi bir kişiliği vardı.	İleri görüş sahibi bir kişiliği vardı.
+Benim vizyonum çok iyidir.	Benim ileri görüşüm çok iyidir.
+Senin vizyonun nasıldır?	Senin ileri görüşün nasıldır?
+Onun vizyonu sanırım iyi değil.	Onun ileri görüşü sanırım iyi değil.
+Vizyonlarımızı karşılaştıralım mı?	İleri görüşlerimizi karşılaştıralım mı?
+Vizyonsuz insanlar var dünyada.	İleri görüşsüz insanlar var dünyada.
+Vizyonsuzluktan nefret ediyordu.	İleri görüşsüzlükten nefret ediyordu.
+Fakat bu bir başlangıç, bir vizyon.	Fakat bu bir başlangıç, bir ileri görüş.
+Yeni Vizyon.	Yeni ileri görüş.
+Sana bir vizyon arayışı ile gelecek, bakın yardımcı oldu.	Sana bir ileri görüş arayışı ile gelecek, bakın yardımcı oldu.
+cc	e-posta bilgisi
+Seni cc'ye ekledim.	Seni elektronik posta bilgisine ekledim.
+Genel müdürü cc'ye eklemek çözüm oldu.	Genel müdürü e-posta bilgisine eklemek çözüm oldu.
+Hilal'i ve Utku'yu cc'ye ekleyerek Furkan'a mail attım.	Hilal'i ve Utku'yu e-posta bilgisine ekleyerek Furkan'a mail attım.
+cc nasıl kullanılır.	elektronik posta bilgisi nasıl kullanılır.
+cc'de kimler olmalı.	elektronik posta bilgisinde kimler olmalı.
+seni sevseydi cc'ye seni de eklerdi.	seni sevseydi elektronik posta bilgisine seni de eklerdi.
+cc'yi silmeyi unutmuşsun.	elektronik posta bilgisini silmeyi unutmuşsun.
+senin adını cc'de göremedim.	senin adını e-posta bilgisinde göremedim.
+kendi mail atarken kendini cc'ye de eklemelisin.	kendi mail atarken kendini e-posta bilgisine de eklemelisin.
+müdür adları cc'de belli kurala göre sıralanır.	müdür adları e-posta bilgisinde belli kurala göre sıralanır.
+full time	tam zamanlı
+Babasının lokantasında full time çalışır.	Babasının lokantasında tam zamanlı çalışır.
+Aslında part time çalışıyordum şimdi full time yaptılar.	Aslında yarı zamanlı çalışıyordum şimdi tam zamanlı yaptılar.
+Bunu eski parçalarla uçabilecek halde tutmak bile full time bir iştir.	Bunu eski parçalarla uçabilecek halde tutmak bile tam zamanlı bir iştir.
+Görünüşe bakılırsa Jacob Blankenship bir part time politik radikal ve bir full time baş belası.	Görünüşe bakılırsa Jacob Blankenship bir yarı zamanlı politik radikal ve bir tam zamanlı baş belası.
+Belki de sana part time süre vermesinin nedeni, bana full time süre vermesidir.	Belki de sana part time süre vermesinin nedeni, bana tam zamanlı süre vermesidir.
+Ben full time çalışıyorum TUSAŞ'ta çok şükür.	Ben tam zamanlı çalışıyorum TUSAŞ'ta çok şükür.
+TUSAŞ'ta full time işe başlayacağım.	TUSAŞ'ta tam zamanlı işe başlayacağım.
+full time çalışmak güzeldir.	tam zamanlı çalışmak güzeldir.
+kötü olan full time çalışamamak.	kötü olan tam zamanlı çalışamamak.
+full time ne demek?	tam zamanlı ne demek?
+inovasyon	yenilik
+İnovasyon firmalarında çalışmak güzeldir.	Yenilik firmalarında çalışmak güzeldir.
+Bu gerçekten bir inovasyon firmasıdır.	Bu gerçekten bir yenilik firmasıdır.
+İnovasyonlara yatırım yapan firmalar büyür.	Yeniliklere yatırım yapan firmalar büyür.
+"Ne olursa olsun bir sonraki inovasyon döngüsünde kazanacağım."	"Ne olursa olsun bir sonraki yenilik döngüsünde kazanacağım."
+O güzel bir inovasyon olurdu.	O güzel bir yenilik volurdu.
+Kültür, eğitim, araştırma ve inovasyon bitip tükenmeyen kaynaklar.	Kültür, eğitim, araştırma ve yenilik bitip tükenmeyen kaynaklar.
+Bu, dürüst olmak gerekirse, daha çok iş dünyası tarafından: inovasyon, yaratıcılık ve değişim.	Bu, dürüst olmak gerekirse, daha çok iş dünyası tarafından: yenilik, yaratıcılık ve değişim.
+Bu, internet öncesi, yani i ö inovasyon modeli.	Bu, internet öncesi, yani i ö yenilik modeli.
+Bana inovasyonu öğretir misin?	Bana yeniliği öğretir misin?
+Senin inovasyonun güzel.	Senin yeniliğin güzel.
+set etmek	ayarlamak
+Toplantı set ettin mi?	Toplantı ayarladın mı?
+Yeni bir görüşme set et lütfen.	Yeni bir görüşme ayarla lütfen.
+Set etmediğin bir toplantıya girme.	ayarlamadığın bir toplantıya girme.
+set edilmemiş bir toplantı bu.	ayarlanmamış bir toplantı bu.
+Daha görüşme set edemeyen kişiler var şirkette.	Daha görüşme ayarlayamayan kişiler var şirkette.
+müdürle bir görüşme set ettim.	müdürle bir görüşme ayarladım.
+Sen de direktör ile toplantı set et.	Sen de direktör ile toplantı ayarla.
+Topltantı set etmek yetenek işidir.	Topltantı ayarlamak yetenek işidir.
+Herkes toplantı set edemez.	Herkes toplantı ayarlayamaz.
+Her şeyi set ettinysen sorun kalmaz.	Her şeyi ayarladıysan sorun kalmaz.
