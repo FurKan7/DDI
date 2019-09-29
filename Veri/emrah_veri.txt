@@ -23,8 +23,6 @@ listeyi check ettin mi?	listeyi denetledin mi?
 Beni geçen hafta yaptığım check için aramışlar.	Beni geçen hafta yaptığım denetleme aramışlar.
 Bu listenin cheki yapıldığında gümrükten geçer.	Bu listenin denetimi yapıldığında gümrükten geçer.
 Ya chek et ya da terket burayı.	Ya denetle ya da terket burayı.
-
-
 deadline	son teslim zamanı
 Proje deadline'ı çok yakın.	Proje son teslim zamanı çok yakın.
 deadline toplantısı yaptık.	son teslim zamanı toplantısı yaptık.
@@ -46,8 +44,6 @@ Projenin deadlineları vardı.	Projenin son teslim zamanları vardı.
 Ama artık deadlinelar yok.	Ama artık son teslim zamanları yok.
 Maçın deadlineı bitiş düdüğü değildir sadece.	Maçın son teslim zamanı bitiş düdüğü değildir sadece.
 Bazı deadlinelar yanlış belirleniyor maalesef.	Bazı son teslim zamanları yanlış belirleniyor maalesef.
-
-
 lansman	tanıtım
 Lansman dediğin böyle yapılır.	Tanıtım dediğin böyle yapılır.
 Lansman konuşmasına fazladan polis kuvveti getirmek istiyor.	Tanıtım konuşmasına fazladan polis kuvveti getirmek istiyor.
@@ -72,8 +68,6 @@ Bu hediyeyi lansmanda kazandım.	Bu hediyeyi tanıtımda kazandım.
 Afedersiniz, lansman nerede?	Afedersiniz, tanıtım nerede?
 sen de gelecek misin lansmana?	sen de gelecek misin tanıtıma?
 Lansman saat kaçta acaba?	Tanıtım saat kaçta acaba?
-
-
 absürt	saçma
 Ne absürt konuştun öyle.	Ne saçma konuştun öyle.
 Ben absürt konuları hiç sevmem.	Ben saçma konuları hiç sevmem.
@@ -92,7 +86,6 @@ Hayat absürtlüklerle dolu.	Hayat saçmalıklarla dolu.
 Kafam dolu dolu absürt şeyleyle ne yazık ki.	Kafam dolu dolu saçma şeyleyle ne yazık ki.
 Kör bıçak absürt domates kesilmiyor salatalar.	Kör bıçak saçma domates kesilmiyor salatalar.
 Hayatla evren absürt iki ikilem.	Hayatla evren saçma iki ikilem.
-
 analiz	çözümlemek
 Analiz sonuçları geldi mi?	Çözümleme sonuçları geldi mi?
 Bu tasarımın analizi yeni geldi.	Bu tasarımın çözümlemesi yeni geldi.
@@ -117,9 +110,6 @@ Onun analizini ben çok beğemdim.	Onun çözümlemesini ben çok beğemdim.
 Senin analizini de beğendim.	Senin çözümlemeni de beğendim.
 Kendi analizimi kendim yaparım.	Kendi çözümlememi kendim yaparım.
 Analizim şekil önümden çekil.	Çözümlemem şekil önümden çekil.
-
-
-
 vizyon ileri görüş
 Bu firmanın vizyonu çok iyi.	Bu firmanın ileri görüşü çok iyi.
 Vizyon sahibi bir kişiliği vardı.	İleri görüş sahibi bir kişiliği vardı.
@@ -142,8 +132,6 @@ Birçok vizyonlarımız vardı eskiden.	Birçok ileri görüşlerimiz vardı esk
 Vizyon önemli bir olgu.	İleri görüş önemli bir olgu.
 her firma vizyon belirlemeli.	her firma ileri görüş belirlemeli.
 Robotların da vizyonu olabilir.	Robotların da ileri görüşü olabilir.
-
-
 cc	e-posta bilgisi
 Seni cc'ye ekledim.	Seni e-posta bilgisine ekledim.
 Genel müdürü cc'ye eklemek çözüm oldu.	Genel müdürü e-posta bilgisine eklemek çözüm oldu.
@@ -164,8 +152,6 @@ cc'nin türkçesi var mı?	e-posta bilgisinin türkçesi var mı?
 Türkçesi olan bir terimdir cc.	Türkçesi olan bir terimdir e-posta bilgisi.
 O halde artık ccyi kullanmayalım.	O halde artık e-posta bilgisini kullanmayalım.
 cc'yi kim düşünmüşse zeki adammış.	e-posta bilgisini kim düşünmüşse zeki adammış.
-
-
 full time	tam zamanlı
 Babasının lokantasında full-time çalışır.	Babasının lokantasında tam zamanlı çalışır.
 Aslında part-time çalışıyordum şimdi full-time yaptılar.	Aslında part-time çalışıyordum şimdi tam zamanlı yaptılar.
@@ -188,8 +174,6 @@ Ne demek be full time'ın yarısı gece vakti.	Ne demek be tam zamanlının yar�
 Ben full time'ı anlamıyorum.	Ben tam zamanlıyı anlamıyorum.
 Sen full timeı anlıyor musun?	Sen tam zamanlıyı anlıyor musun?
 Full time can kurtaranım ben.	Tam zamanlı can kurtaranım ben.
-
-
 inovasyon	yenilik
 İnovasyon firmalarında çalışmak güzeldir.	Yenilik firmalarında çalışmak güzeldir.
 Bu gerçekten bir inovasyon firmasıdır.	Bu gerçekten bir yenilik firmasıdır.
@@ -211,8 +195,6 @@ Senin inovasyonun saçma.	Senin yeniliğin saçma.
 onun inovasyonu bizimki gibi güzel.	onun yeniliği bizimki gibi güzel.
 İnovasyonun bir değişik türüdür bu.	Yeniliğin bir değişik türüdür bu.
 Plaza dili inovasyona çok engeldir.	Plaza dili yeniliğe çok engeldir.
-
-
 set etmek	ayarlamak
 Toplantı set ettin mi?	Toplantı ayarladın mı?
 Yeni bir görüşme set et lütfen.	Yeni bir görüşme ayarla lütfen.
