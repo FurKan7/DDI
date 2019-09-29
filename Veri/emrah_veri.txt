@@ -21,6 +21,8 @@ Tam denetleme için vaktiniz yoksa küçük bir check yapabilirsiniz.	Tam denetl
 Belki de bir daha check etmelisiniz.	Belki de bir daha denetlemelisiniz.
 listeyi check ettin mi?	listeyi denetledin mi?
 Beni geçen hafta yaptığım check için aramışlar.	Beni geçen hafta yaptığım denetleme aramışlar.
+Bu listenin cheki yapıldığında gümrükten geçer.	Bu listenin denetimi yapıldığında gümrükten geçer.
+Ya chek et ya da terket burayı.	Ya denetle ya da terket burayı.
 
 
 deadline	son teslim zamanı
@@ -34,6 +36,16 @@ Ben deadlineı hiç kaçırmadım.	Ben son teslim zamanını hiç kaçırmadım.
 Deadline'ı iki hafta uzatabilir miyiz?	Son teslim zamanını iki hafta uzatabilir miyiz?
 Deadline koyar mısın?	Son teslim zamanı koyar mısın?
 İşi bitirmem için deadline'ım var.	İşi bitirmem için son teslim zamanım var.
+İnsanın da deadlineı vardır.	İnsanın da son teslim zamanı vardır.
+Bizim deadlineımız eceldir.	Bizim son teslim zamanımız eceldir.
+Senin deadlinenın ne zaman Allah bilir.	Senin son teslim zamanın ne zaman Allah bilir.
+Benim deadlineım dündü.	Benim son teslim zamanım dündü.
+şu deadline kelimesinden nefret ediyorum.	şu son teslim zamanı kelimesinden nefret ediyorum.
+Deadlineı kim dilimize soktu.	Son teslim zamanını kim dilimize soktu.
+Projenin deadlineları vardı.	Projenin son teslim zamanları vardı.
+Ama artık deadlinelar yok.	Ama artık son teslim zamanları yok.
+Maçın deadlineı bitiş düdüğü değildir sadece.	Maçın son teslim zamanı bitiş düdüğü değildir sadece.
+Bazı deadlinelar yanlış belirleniyor maalesef.	Bazı son teslim zamanları yanlış belirleniyor maalesef.
 
 
 lansman	tanıtım
@@ -47,7 +59,19 @@ Lansman hediyeleri geldi mi?	Tanıtım hediyeleri geldi mi?
 Senin lansmanın berbattı.	Senin tanıtımın berbattı.
 Benim lansmanım güzeldi.	Benim tanıtımım güzeldi.
 Onun lansmanı idare ederdi.	Onun tanıtımı idare ederdi.
-
+Kalp sağlığı için lansman yapıldı.	Kalp sağlığı için tanıtım yapıldı.
+Yeni TV kanalının lansmanı yapılmadı.	Yeni TV kanalının tanıtımı yapılmadı.
+Onun lansmanında kötü şeyler yaşandı.	Onun tanıtımımızda kötü şeyler yaşandı.
+Benim lansmanımda güzel şeyler vardı.	Benim tanıtımımda güzel şeyler vardı.
+Bizim lansmanımız ertelendi.	Bizim tanıtımımız ertelendi.
+Onların lansmanı garipti.	Onların tanıtımı garipti.
+Senin lansmanında neler var.	Senin tanıtımında neler var.
+Lansmanlarla geçen bir yıl oldu.	Tanıtımlarla geçen bir yıl oldu.
+Lansmanlar ile geçecek bir hafta bizi bekliyor.	Tanıtımlar ile geçecek bir hafta bizi bekliyor.
+Bu hediyeyi lansmanda kazandım.	Bu hediyeyi tanıtımda kazandım.
+Afedersiniz, lansman nerede?	Afedersiniz, tanıtım nerede?
+sen de gelecek misin lansmana?	sen de gelecek misin tanıtıma?
+Lansman saat kaçta acaba?	Tanıtım saat kaçta acaba?
 
 
 absürt	saçma
@@ -61,7 +85,13 @@ Bu çok absürt ve aşağılayıcı.	Bu çok saçma ve aşağılayıcı.
 Bu ikisinden biri absürt değil.	Bu ikisinden biri saçma değil.
 O kadar absürt bir şekilde küçük bir çocuk gibi ki!	O kadar saçma bir şekilde küçük bir çocuk gibi ki!
 Bu çocukların senin kafanı absürt bir hikâyeyle doldurduklarını biliyorum.	Bu çocukların senin kafanı saçma bir hikâyeyle doldurduklarını biliyorum.
-
+Bu hikayeler absürtler.	Bu hikayeler saçmalar.
+Olaylar absürtmüş.	Olaylar saçmaymış.
+İlginçten ziyade absürttü.	İlginçten ziyade saçmaydı.
+Hayat absürtlüklerle dolu.	Hayat saçmalıklarla dolu.
+Kafam dolu dolu absürt şeyleyle ne yazık ki.	Kafam dolu dolu saçma şeyleyle ne yazık ki.
+Kör bıçak absürt domates kesilmiyor salatalar.	Kör bıçak saçma domates kesilmiyor salatalar.
+Hayatla evren absürt iki ikilem.	Hayatla evren saçma iki ikilem.
 
 analiz	çözümlemek
 Analiz sonuçları geldi mi?	Çözümleme sonuçları geldi mi?
@@ -75,6 +105,18 @@ Bunu neden analiz ettirmek için laboratuvara göndermiyorsun?	Bunu neden çöz�
 Senin Freudian analizin kadar eğlenceli değil.	Senin Freudian çözümlemen kadar eğlenceli değil.
 Bakterilerin DNA analizini yaptım.	Bakterilerin DNA çözümlemelerini yaptım.
 Analizlere güvenmiyorum.	Çözümlemelere güvenmiyorum.
+Senin analizin güzel.	Senin çözümlemen güzel.
+Onun analizi anlaşılmaz.	Onun çözümlemesi anlaşılmaz.
+Benim analizim yok.	Benim çözümlemem yok.
+Analizler kaybolmuş.	Çözümlemeler kaybolmuş.
+Şu analizleri doğru yorumlayan yok mu yahu?	Şu çözümlemeleri doğru yorumlayan yok mu yahu?
+Sizin analizleriniz nerede?	Sizin çözümlemeleriniz nerede?
+Bizim analizlerimiz firmaya ulaşmış.	Bizim çözümlemelerimiz firmaya ulaşmış.
+Bizim analizlerimizi kim götürdü firmaya?	Bizim çözümlemelerimizi kim götürdü firmaya?
+Onun analizini ben çok beğemdim.	Onun çözümlemesini ben çok beğemdim.
+Senin analizini de beğendim.	Senin çözümlemeni de beğendim.
+Kendi analizimi kendim yaparım.	Kendi çözümlememi kendim yaparım.
+Analizim şekil önümden çekil.	Çözümlemem şekil önümden çekil.
 
 
 
@@ -90,7 +132,16 @@ Vizyonsuzluktan nefret ediyordu.	İleri görüşsüzlükten nefret ediyordu.
 Fakat bu bir başlangıç, bir vizyon.	Fakat bu bir başlangıç, bir ileri görüş.
 Yeni Vizyon.	Yeni ileri görüş.
 Sana bir vizyon arayışı ile gelecek, bakın yardımcı oldu.	Sana bir ileri görüş arayışı ile gelecek, bakın yardımcı oldu.
-
+Senin vizyonuna kötü şeyler olmuş.	Senin ileri görüşüne kötü şeyler olmuş.
+Benim vizyonuma yeni eklemeler yaptım.	Benim ileri görüşüme yeni eklemeler yaptım.
+onun vizyonuna ekleme yapmayın sakın.	onun ileri görüşüne ekleme yapmayın sakın.
+onların vizyonları bozuk arkadaş.	onların ileri görüşleri bozuk arkadaş.
+vizyonlarınız hatalı bence.	ileri görüşleriniz hatalı bence.
+Bizim vizyonumuz bize aittir.	Bizim ileri görüşümüz bize aittir.
+Birçok vizyonlarımız vardı eskiden.	Birçok ileri görüşlerimiz vardı eskiden.
+Vizyon önemli bir olgu.	İleri görüş önemli bir olgu.
+her firma vizyon belirlemeli.	her firma ileri görüş belirlemeli.
+Robotların da vizyonu olabilir.	Robotların da ileri görüşü olabilir.
 
 
 cc	e-posta bilgisi
@@ -104,8 +155,15 @@ cc'yi silmeyi unutmuşsun.	e-posta bilgisini silmeyi unutmuşsun.
 senin adını cc'de göremedim.	senin adını e-posta bilgisinde göremedim.
 kendi mail atarken kendini cc'ye de eklemelisin.	kendi mail atarken kendini e-posta bilgisine de eklemelisin.
 müdür adları cc'de belli kurala göre sıralanır.	müdür adları e-posta bilgisinde belli kurala göre sıralanır.
-
-
+Elektronik postada cc bölümü var.	Elektronik postada e-posta bilgisi bölümü var.
+bu cc bölümüne ilgili kişiler eklenir.	bu e-posta bilgisi bölümüne ilgili kişiler eklenir.
+Hasan'ı da ccye ekle.	Hasan'ı da e-posta bilgisine ekle.
+Onun cc takıntısı var.	Onun e-posta bilgisi takıntısı var.
+ccyi gördün mü genel müdür bile var.	e-posta bilgisini gördün mü genel müdür bile var.
+cc'nin türkçesi var mı?	e-posta bilgisinin türkçesi var mı?
+Türkçesi olan bir terimdir cc.	Türkçesi olan bir terimdir e-posta bilgisi.
+O halde artık ccyi kullanmayalım.	O halde artık e-posta bilgisini kullanmayalım.
+cc'yi kim düşünmüşse zeki adammış.	e-posta bilgisini kim düşünmüşse zeki adammış.
 
 
 full time	tam zamanlı
@@ -119,7 +177,17 @@ TUSAŞ'ta full time işe başlayacağım.	TUSAŞ'ta tam zamanlı işe başlayaca
 full time çalışmak güzeldir.	tam zamanlı çalışmak güzeldir.
 kötü olan full time çalışamamak.	kötü olan tam zamanlı çalışamamak.
 full time ne demek?	tam zamanlı ne demek?
-
+full time işim var.	tam zamanlı işim var.
+ne full time ne yarı zamanlı... ben çalışmaya karşıyım.	ne tam zamanlı ne yarı zamanlı... ben çalışmaya karşıyım.
+Devlet de full time mı çalışıyor?	Devlet de tam zamanlı mı çalışıyor?
+İşin full timeı makbuldür.	İşin tam zamanlısı makbuldür.
+full timeın yarsı gece vaktinde.	tam zamanlının yarsı gece vaktinde.
+çalışırken full time'ı kabul etmem.	çalışırken tam zamanlıyı kabul etmem.
+Ne demek be full time'ın yarısı gece vakti.	Ne demek be tam zamanlının yarısı gece vakti.
+İftayecilerin full timeı nasıldır acaba?	İftayecilerin tam zamanlısı nasıldır acaba?
+Ben full time'ı anlamıyorum.	Ben tam zamanlıyı anlamıyorum.
+Sen full timeı anlıyor musun?	Sen tam zamanlıyı anlıyor musun?
+Full time can kurtaranım ben.	Tam zamanlı can kurtaranım ben.
 
 
 inovasyon	yenilik
@@ -133,7 +201,16 @@ Bu, dürüst olmak gerekirse, daha çok iş dünyası tarafından: inovasyon, ya
 Bu, internet öncesi, yani İ.Ö. inovasyon modeli.	Bu, internet öncesi, yani İ.Ö. yenilik modeli.
 Bana inovasyonu öğretir misin?	Bana yeniliği öğretir misin?
 Senin inovasyonun güzel.	Senin yeniliğin güzel.
-
+İnovasyon nedir biliyor musun?	yenilik nedir biliyor musun?
+Bu firmanın değişik inovasyonları var.	Bu firmanın değişik yenilikleri var.
+İnovasyonu olmayan şirket batmaya mahkumdur.	yeniliği olmayan şirket batmaya mahkumdur.
+İnovasyonların varsa ayakta kalabilirsin.	yeniliklerin varsa ayakta kalabilirsin.
+Ezber yerine inovasyona yönelmeliyiz.	Ezber yerine yeniliğe yönelmeliyiz.
+benim inovasyonum seninkini döver.	benim yeniliğim seninkini döver.
+Senin inovasyonun saçma.	Senin yeniliğin saçma.
+onun inovasyonu bizimki gibi güzel.	onun yeniliği bizimki gibi güzel.
+İnovasyonun bir değişik türüdür bu.	Yeniliğin bir değişik türüdür bu.
+Plaza dili inovasyona çok engeldir.	Plaza dili yeniliğe çok engeldir.
 
 
 set etmek	ayarlamak
@@ -147,51 +224,28 @@ Sen de direktör ile toplantı set et.	Sen de direktör ile toplantı ayarla.
 Topltantı set etmek yetenek işidir.	Topltantı ayarlamak yetenek işidir.
 Herkes toplantı set edemez.	Herkes toplantı ayarlayamaz.
 Her şeyi set ettinysen sorun kalmaz.	Her şeyi ayarladıysan sorun kalmaz.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+set etmek ne demek?	ayarlamak ne demek?
+set etmenin değişik manaları var.	ayarlamanın değişik manaları var.
+set etmeyeceğin toplantı için söz verme.	ayarlamayacağın toplantı için söz verme.
+sen nasıl set edemeyeceğin toplantının sözlerini verirsin.	sen nasıl ayarlayamacağın toplantının sözlerini verirsin.
+iyi set etmeler.	iyi ayarlamalar.
+Emrah bunu sen set et.	Emrah bunu sen ayarla.
+Emredersiniz komutanım ben set edeceğim.	Emredersiniz komutanım ben ayarlayacağım.
+Sen set ettin.	Sen ayarladın.
+ben set ettim.	ben ayarladım.
+o set etti.	o ayarladı.
+Biz set ettik.	Biz ayarladık.
+siz set ettiniz.	siz ayarladınız.
+onlar set ettiler.	onlar ayarladılar.
+Ben set ediyorum.	Ben ayarlıyorum.
+sen set ediyorsun.	sen ayarlıyorsun.
+o set ediyor.	o ayarlıyor.
+biz set ediyoruz.	biz ayarlıyoruz.
+siz set ediyorsunuz.	siz ayarlıyorsunuz.
+onlar set ediyorlar.	onlar ayarlıyorlar.
+Ben set edeceğim.	Ben ayarlayacağım.
+sen set edeceksin.	sen ayarlayacaksın.
+o set edecek.	o ayarlayacak.
+biz set edeceğiz.	biz ayarlayacağız.
+siz set edeceksiniz.	siz ayarlayacaksınız.
+onlar set edecekler.	onlar ayarlayacaklar.
